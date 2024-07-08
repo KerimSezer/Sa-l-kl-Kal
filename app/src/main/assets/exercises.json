@@ -1,0 +1,2462 @@
+{
+  "weightLoss": {
+    "cardio": {
+      "imageURL": "https://iili.io/d2pChqQ.jpg",
+      "bodyPart": "Kardiyo",
+      "exercises": [
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/RxksGdRR2fNZej",
+          "id": "3220",
+          "name": "bacaklar ayrık zıplama (erkek)",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "baldırlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun.",
+            "Dizlerinizi bükün ve vücudunuzu çömelme pozisyonuna indirin.",
+            "Patlayıcı bir şekilde yukarı zıplayın, bacaklarınızı ve kollarınızı uzatın.",
+            "Havadayken bacaklarınızı açın ve kollarınızı yanlara getirin.",
+            "Yumuşak bir şekilde omuz genişliğinde ayaklarınızı yere koyarak, dizlerinizi bükerek darbenin etkisini azaltın.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/Lx4M4o9sIUbeq0",
+          "id": "3672",
+          "name": "ileri geri adım",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "kalçalar",
+            "baldırlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun.",
+            "Sağ ayağınızla öne doğru adım atın, dizinizi bükerek vücudunuzu hamle pozisyonuna indirin.",
+            "Sağ ayağınızla iterek başlangıç pozisyonuna geri dönün.",
+            "Hareketi sol ayağınızla tekrarlayın, her adımda bacak değiştirin.",
+            "Sabit bir tempo koruyarak ileri geri adım atmaya devam edin.",
+            "İstenilen süre veya tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/OvDmdr0rtpwpEt",
+          "id": "3360",
+          "name": "ayı yürüyüşü",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "karın kasları",
+            "omuzlar",
+            "triseps"
+          ],
+          "instructions": [
+            "Ellerinizi omuzlarınızın hemen altında ve dizlerinizi kalçalarınızın hemen altında olacak şekilde dört ayak üzerinde başlayın.",
+            "Dizlerinizi yerden hafifçe kaldırarak, sırtınızı düz ve karın kaslarınızı sıkı tutun.",
+            "Sağ elinizi ve sol ayağınızı aynı anda ileri doğru hareket ettirin, ardından sol elinizi ve sağ ayağınızı hareket ettirin.",
+            "El ve ayak hareketlerinizi değiştirerek ileri doğru emeklemeye devam edin.",
+            "Egzersiz boyunca sabit bir tempo koruyun ve karın kaslarınızı sıkı tutun.",
+            "İstenilen mesafe veya süre boyunca devam edin."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/ODDenG11ZBfXcm",
+          "id": "1160",
+          "name": "burpee",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "baldırlar",
+            "omuzlar",
+            "göğüs"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak dik durun.",
+            "Dizlerinizi bükerek ve ellerinizi önünüzde yere koyarak vücudunuzu çömelme pozisyonuna indirin.",
+            "Ayaklarınızı geriye doğru iterek şınav pozisyonuna geçin.",
+            "Vücudunuzu düz tutarak bir şınav çekin.",
+            "Ayaklarınızı tekrar çömelme pozisyonuna getirin.",
+            "Patlayıcı bir şekilde yukarı zıplayın, kollarınızı başınızın üstüne uzatın.",
+            "Yumuşak bir şekilde yere inin ve bir sonraki tekrara başlamak için hemen tekrar çömelme pozisyonuna geçin."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "leveraj makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/MMiIR-svpHtboJ",
+          "id": "2331",
+          "name": "bisiklet çapraz antrenörü",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "kalçalar"
+          ],
+          "instructions": [
+            "Sele yüksekliğini ayarlayın ve bisiklet çapraz antrenöründe kendinizi konumlandırın.",
+            "Ayaklarınızı pedallara koyun ve gidonu kavrayın.",
+            "Düzgün ve kontrollü bir hareketle pedallamaya başlayın.",
+            "Sabit bir tempo koruyun ve isterseniz direnci artırın.",
+            "Kardiyo antrenmanınızın istenen süresi boyunca pedallamaya devam edin."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "dambıl",
+          "gifUrl": "https://v2.exercisedb.io/image/Kh6ZUXM0sVJ0Z5",
+          "id": "1201",
+          "name": "dambıl burpee",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "baldırlar",
+            "omuzlar",
+            "triseps",
+            "karın kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak, her iki elinize birer dambıl alarak dik durun.",
+            "Dizlerinizi bükerek ve dambılları önünüzde yere koyarak çömelme pozisyonuna geçin.",
+            "Ayaklarınızı geriye doğru iterek şınav pozisyonuna geçin, vücudunuzu düz tutun.",
+            "Dirseklerinizi bükerek ve göğsünüzü yere yaklaştırarak bir şınav çekin.",
+            "Ayaklarınızı ellerinize doğru geri çekerek çömelme pozisyonuna geçin.",
+            "Patlayıcı bir şekilde ayağa kalkarak dambılları yerden kaldırın ve omuzlarınıza getirin.",
+            "Dambılları başınızın üstüne doğru kaldırarak kollarınızı tamamen uzatın.",
+            "Dambılları omuzlarınıza geri indirin ve istenen tekrar sayısı kadar tüm sekansı tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/ReShwUGbRUNY3e",
+          "id": "3221",
+          "name": "yarım diz bükme (erkek)",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "kalçalar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun.",
+            "Dizlerinizi bükerek ve vücudunuzu bir sandalyeye oturuyormuş gibi indirerek çömelin.",
+            "Göğsünüzü yukarıda ve ağırlığınızı topuklarınızda tutun.",
+            "Alt pozisyonda bir an duraklayın, ardından topuklarınızdan iterek başlangıç pozisyonuna geri dönün.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/TzF7Ftek1Wkf13",
+          "id": "3636",
+          "name": "duvara karşı yüksek diz",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "kalçalar",
+            "baldırlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı kalça genişliğinde açarak duvara dönük durun.",
+            "Destek için ellerinizi duvara koyun.",
+            "Karın kaslarınızı sıkın ve sağ dizinizi göğsünüze doğru kaldırın, sol ayağınızı yerde tutarak.",
+            "Hızla bacak değiştirerek sol dizinizi göğsünüze doğru kaldırın ve sağ ayağınızı yere indirin.",
+            "Dizlerinizi mümkün olduğunca yukarı çekerek koşma hareketiyle bacaklarınızı değiştirmeye devam edin.",
+            "Egzersiz boyunca hızlı bir tempo koruyun ve üst vücudunuzu sabit tutun.",
+            "İstenilen süre veya tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/GVFaL6G5nyshdv",
+          "id": "0501",
+          "name": "jack burpee",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "baldırlar",
+            "omuzlar",
+            "triseps",
+            "karın kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak dik durun.",
+            "Dizlerinizi bükerek ve ellerinizi önünüzde yere koyarak çömelme pozisyonuna geçin.",
+            "Ayaklarınızı geri atarak şınav pozisyonuna geçin.",
+            "Göğsünüzü yere indirerek bir şınav çekin ve ardından tekrar yukarı ittirin.",
+            "Ayaklarınızı ileri doğru çekerek çömelme pozisyonuna geçin.",
+            "Patlayıcı bir şekilde yukarı zıplayın ve kollarınızı başınızın üstüne kaldırın.",
+            "Yumuşak bir şekilde yere inin ve hemen tekrar çömelme pozisyonuna geçerek bir sonraki tekrara başlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/h9OJnRqBAnFKNq",
+          "id": "3224",
+          "name": "jack zıplaması (erkek)",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "baldırlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı birleştirerek ve kollarınızı yanlarda tutarak durun.",
+            "Zıplayarak ayaklarınızı açın ve kollarınızı başınızın üstüne kaldırın.",
+            "Yere inerken hızla başlangıç pozisyonuna geri zıplayın.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    }
+  },
+  "weightMaintaining": {
+    "leg": {
+      "imageURL": "https://iili.io/d2pCkkF.jpg",
+      "bodyPart": "Bacak",
+      "exercises": [
+        {
+          "bodyPart": "bacak",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/2NMiTl6t2Wiu4X",
+          "id": "1368",
+          "name": "ayak bileği daireleri",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "ayak bileği stabilizatörleri"
+          ],
+          "instructions": [
+            "Bacaklarınızı önünüzde uzatarak yere oturun.",
+            "Bir bacağınızı yerden kaldırın ve ayak bileğinizi dairesel hareketlerle döndürün.",
+            "İstenilen sayıda daireyi bir yönde yapın, ardından diğer yöne geçin.",
+            "Diğer bacakla tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "destekli",
+          "gifUrl": "https://v2.exercisedb.io/image/EudMEcBA7J-kLm",
+          "id": "1708",
+          "name": "destekli yatarken baldır germe",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler"
+          ],
+          "instructions": [
+            "Sırt üstü uzanın ve bacaklarınızı uzatın.",
+            "Bir dizinizi bükün ve ayağınızı yere düz bir şekilde yerleştirin.",
+            "Ellerinizi veya bir havluyu kullanarak ayak parmaklarınızı vücudunuza doğru çekin, baldırınızda bir gerilme hissedin.",
+            "Gerilme pozisyonunu 20-30 saniye tutun.",
+            "Gerilmeyi bırakın ve diğer bacakla tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/6Q9gWtQjCwS0hB",
+          "id": "0999",
+          "name": "bant ile tek bacak baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "ayak bilekleri",
+            "ayaklar"
+          ],
+          "instructions": [
+            "Ayaklarınızı kalça genişliğinde açarak durun ve bandı sol ayağınızın altına yerleştirin.",
+            "Denge için sabit bir nesneye tutunun.",
+            "Sol topuğunuzu yavaşça yerden kaldırın, vücut ağırlığınızı ayağınızın topuna verin.",
+            "Yukarıda bir an duraklayın, ardından sol topuğunuzu yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın, ardından sağ ayağınıza geçin."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/EEKLsfsauyYjZ5",
+          "id": "1000",
+          "name": "bant ile tek bacak ters baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler",
+            "gluteus"
+          ],
+          "instructions": [
+            "Ayaklarınızı kalça genişliğinde açarak durun ve bandı ayağınızın topuğuna yerleştirin.",
+            "Denge için sabit bir nesneye tutunun.",
+            "Topuğunuzu yavaşça yerden kaldırın, vücut ağırlığınızı ayağınızın topuna verin.",
+            "Yukarıda bir an duraklayın, ardından topuğunuzu yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın, ardından diğer ayağa geçin."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/aMVeUVwB6Kg-B0",
+          "id": "1369",
+          "name": "bant ile iki bacak baldır kaldırma - (bant her iki ayağın altında) v. 2",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "ayak bilekleri",
+            "ayaklar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bir direnç bandını her iki ayağınızın altına yerleştirin.",
+            "Denge için bandın uçlarını ellerinizle tutun.",
+            "Topuklarınızı yerden olabildiğince yükseğe kaldırın, baldırlarınızı kullanarak.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/jcHLX6Pb112EoQ",
+          "id": "1370",
+          "name": "halter ile yer baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler"
+          ],
+          "instructions": [
+            "Önünüzde bir halteri yere yerleştirin.",
+            "Ayaklarınızın topukları havada kalacak şekilde halterin kenarına basın.",
+            "Denge için sabit bir nesneye tutunun.",
+            "Topuklarınızı olabildiğince yükseğe kaldırın, vücudunuzu kaldırmak için baldırlarınızı kullanın.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/2YIAyscU9cYBsu",
+          "id": "0088",
+          "name": "halter ile oturarak baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler",
+            "quadriceps"
+          ],
+          "instructions": [
+            "Bir banka oturun ve ayaklarınızı yere düz bir şekilde yerleştirin, halteri uyluklarınızın üzerine yerleştirin.",
+            "Ayaklarınızın topuklarını bir yükseltiye, örneğin bir blok veya basamağa yerleştirin.",
+            "Halteri uyluklarınızın üzerine yerleştirin ve ellerinizle sıkıca tutun.",
+            "Sırtınızı düz tutarak ve karnınızı sıkarak, topuklarınızı yerden kaldırarak ayak bileklerinizi uzatın.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/3XN0ThPr0tYC6D",
+          "id": "1371",
+          "name": "halter ile oturarak baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler"
+          ],
+          "instructions": [
+            "Bir banka oturun ve ayaklarınızı yere düz bir şekilde yerleştirin, halteri uyluklarınızın üzerine yerleştirin.",
+            "Ayaklarınızın topuklarını bir yükseltiye, örneğin bir blok veya basamağa yerleştirin.",
+            "Topuklarınızı olabildiğince aşağıya indirin, baldırlarınızda bir gerilme hissedin.",
+            "Topuklarınızı olabildiğince yükseğe kaldırın, baldırlarınızı kasarak.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/lzf94QZpDR4Eea",
+          "id": "1372",
+          "name": "halter ile ayakta baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler",
+            "gluteus"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve halteri üst sırtınızın üzerine yerleştirin.",
+            "Topuklarınızı yerden olabildiğince yükseğe kaldırın, sadece parmak uçlarınızı kullanarak.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/hblaoDvJUedsMb",
+          "id": "0108",
+          "name": "halter ile ayakta tek bacak baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler",
+            "gluteus"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve halteri üst sırtınızın üzerine yerleştirin.",
+            "Topuklarınızı yerden olabildiğince yükseğe kaldırın, baldırlarınızı kullanarak.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        }
+      ]
+    },
+    "chest": {
+      "imageURL": "https://iili.io/d2pCwrB.jpg",
+      "bodyPart": "Göğüs",
+      "exercises": [
+        {
+          "bodyPart": "göğüs",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/hnIZ2a-OZaktu7",
+          "id": "3294",
+          "name": "archer şınav",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar",
+            "core"
+          ],
+          "instructions": [
+            "Elleriniz omuz genişliğinden biraz daha geniş olacak şekilde şınav pozisyonunda başlayın.",
+            "Bir kolunuzu yana doğru yere paralel uzatın.",
+            "Dirseklerinizi bükerek, sırtınızı düz tutarak ve core kaslarınızı sıkı tutarak vücudunuzu aşağı indirin.",
+            "Başlangıç pozisyonuna geri ittirin.",
+            "Diğer tarafta tekrarlayın, karşı kolunuzu yana doğru uzatın.",
+            "İstenilen tekrar sayısı kadar taraf değiştirerek devam edin."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/YZjYgVSIAAHKZy",
+          "id": "0009",
+          "name": "yardımlı göğüs dip (diz çökerek)",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz yüksekliğe ayarlayın ve dizlerinizi yastığa yerleştirin.",
+            "Kollarınız tam uzatılmış şekilde tutamakları avuç içleriniz aşağı bakacak şekilde tutun.",
+            "Dirseklerinizi bükerek vücudunuzu üst kollarınız yere paralel olana kadar indirin.",
+            "Bir an duraklayın, ardından başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "yardımlı",
+          "gifUrl": "https://v2.exercisedb.io/image/jhdIu627-fcNRS",
+          "id": "1716",
+          "name": "yardımlı oturarak pektoral majör esneme (denge topu ile)",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "omuzlar",
+            "triseps"
+          ],
+          "instructions": [
+            "Ayaklarınız yere düz basacak şekilde ve sırtınız düz olacak şekilde denge topunun üzerine oturun.",
+            "Denge topunu iki elinizle tutun ve kollarınızı önünüzde düz uzatın.",
+            "Denge topunu yavaşça göğsünüze doğru indirin, göğüs kaslarınızda bir gerilme hissedin.",
+            "Esnemeyi birkaç saniye tutun, ardından yavaşça başlangıç pozisyonuna dönün.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/aqEAZskx2Ws6Cd",
+          "id": "2364",
+          "name": "yardımlı geniş tutuş göğüs dip (diz çökerek)",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz yüksekliğe ayarlayın ve dizlerinizi yastığa yerleştirin.",
+            "Tutamakları geniş tutuşla tutun ve dirseklerinizi hafifçe bükülü tutun.",
+            "Dirseklerinizi bükerek vücudunuzu üst kollarınız yere paralel olana kadar indirin.",
+            "Kollarınızı uzatarak başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "bant",
+          "gifUrl":"https://v2.exercisedb.io/image/7yfjNIiIG55jsU",
+          "id": "1254",
+          "name": "bant bench press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınız yere düz basacak şekilde ve sırtınız bench'e yaslanmış şekilde bench'e uzanın.",
+            "Bant tutacaklarını avuç içleriniz aşağı bakacak şekilde, omuz genişliğinden biraz daha geniş tutun.",
+            "Kollarınızı tamamen uzatarak bandı göğsünüzden uzağa itin.",
+            "Dirseklerinizi 90 derece açıyla bükerek bandı yavaşça göğsünüze indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/Bj-0mnADcrC7qQ",
+          "id": "0989",
+          "name": "bant tek kol bükülerek göğüs press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "omuzlar",
+            "triseps"
+          ],
+          "instructions": [
+            "Bandı göğüs hizasında sabit bir noktaya bağlayın.",
+            "Yanınız sabit noktaya bakacak şekilde durun ve bandı bir elinizle tutun.",
+            "Bandı germek için sabit noktadan uzaklaşın.",
+            "Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün.",
+            "Bandı tutan elinizi vücudunuzun karşı omzuna doğru getirin.",
+            "Bandın gerilimini koruyarak elinizi vücudunuzdan uzağa doğru ileri itin ve kolunuzu uzatın.",
+            "Yavaşça başlangıç pozisyonuna geri dönün ve istenilen tekrar sayısı kadar tekrarlayın.",
+            "Taraf değiştirerek diğer elle tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/jqsFMvtt2yQk7e",
+          "id": "0025",
+          "name": "barbell bench press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınız yere düz basacak şekilde ve sırtınız bench'e yaslanmış şekilde bench'e uzanın.",
+            "Halteri avuç içleriniz aşağı bakacak şekilde, omuz genişliğinden biraz daha geniş tutun.",
+            "Halteri raftan çıkarın ve kollarınızı tamamen uzatarak göğsünüzün üzerinde tutun.",
+            "Dirseklerinizi içe doğru bükerek halteri yavaşça göğsünüze indirin.",
+            "Halter göğsünüze değdiğinde bir an duraklayın.",
+            "Kollarınızı uzatarak halteri başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/3ifYuXyi1zl5SW",
+          "id": "0033",
+          "name": "barbell decline bench press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı güvenli bir şekilde sabitleyerek ve başınızı kalçalarınızdan daha düşük olacak şekilde decline bench'e uzanın.",
+            "Halteri avuç içleriniz aşağı bakacak şekilde, omuz genişliğinden biraz daha geniş tutun.",
+            "Halteri raftan çıkarın ve dirseklerinizi içe doğru bükerek halteri yavaşça göğsünüze indirin.",
+            "Alt pozisyonda bir an duraklayın, ardından halteri başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/ovxOeWfoYaGMrK",
+          "id": "1255",
+          "name": "barbell decline pullover",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı güvenli bir şekilde sabitleyerek ve başınızı kalçalarınızdan daha düşük olacak şekilde decline bench'e uzanın.",
+            "Halteri pronate tutuşla (avuç içleriniz vücudunuzdan uzağa bakacak şekilde) ve elleriniz omuz genişliğinden biraz daha geniş olacak şekilde tutun.",
+            "Dirseklerinizde hafif bir bükülme ile kollarınızı göğsünüzün üzerinde uzatın.",
+            "Halteri başınızın arkasına doğru bir yay çizerek indirin, göğsünüzde ve omuzlarınızda bir gerilme hissedin.",
+            "Bir an duraklayın, ardından hareketi tersine çevirerek halteri başlangıç pozisyonuna geri getirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/VwbPgfG8U7OlIq",
+          "id": "0036",
+          "name": "barbell decline wide-grip press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı güvenli bir şekilde sabitleyerek ve başınızı kalçalarınızdan daha düşük olacak şekilde decline bench'e uzanın.",
+            "Halteri geniş tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde tutun.",
+            "Halteri göğsünüze indirin, dirseklerinizi yanlara doğru açarak.",
+            "Kollarınızı tamamen uzatarak halteri başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    },
+    "shoulder": {
+      "imageURL": "https://iili.io/d2pn6Zb.jpg",
+      "bodyPart": "Omuz",
+      "exercises": [
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/WToKuynzUlGERw",
+          "id": "0977",
+          "name": "bant ön lateral kaldırış",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "üst sırt"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı uyluklarınızın önünde avuç içleriniz aşağıya bakacak şekilde tutun.",
+            "Kollarınızı düz tutun ve bandı önünüzde yere paralel olana kadar kaldırın.",
+            "En üstte bir an duraklayın, ardından bandı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/EHxwiqnX8nxkZ4",
+          "id": "0978",
+          "name": "bant ön kaldırış",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "triseps",
+            "üst sırt"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı uyluklarınızın önünde avuç içleriniz aşağıya bakacak şekilde tutun.",
+            "Kollarınızı düz tutun ve yavaşça öne doğru yere paralel olana kadar kaldırın.",
+            "En üstte bir an duraklayın, ardından kollarınızı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/1aHExd9cXqZawS",
+          "id": "0993",
+          "name": "bant ters fly",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "üst sırt",
+            "trapez kasları"
+          ],
+          "instructions": [
+            "Bandı göğüs hizasında sabit bir nesneye bağlayın.",
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı ellerinizle önünüzde tutun.",
+            "Kollarınızı düz tutun ve yanlara doğru yere paralel olana kadar kaldırın.",
+            "Hareketin en üstünde omuz bıçaklarınızı sıkıştırın.",
+            "Kollarınızı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/XPxHDmOqkWFRzw",
+          "id": "0997",
+          "name": "bant omuz press",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "triseps",
+            "üst sırt"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı ayaklarınızın altına yerleştirin.",
+            "Bandı avuç içleriniz öne bakacak şekilde tutun ve ellerinizi omuz hizasına kaldırın, dirsekler bükülü.",
+            "Bandı yukarı doğru itin, kollarınızı tamamen uzatın.",
+            "En üstte bir an duraklayın, ardından bandı yavaşça omuz hizasına geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/l-Jtfxxuwsw1Lg",
+          "id": "1022",
+          "name": "bant ayakta arka delt row",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "romboid kasları",
+            "biseps"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı ayaklarınızın altına yerleştirin.",
+            "Bandın saplarını avuç içleriniz birbirine bakacak şekilde tutun ve kollarınızı önünüzde uzatın.",
+            "Dizlerinizi hafifçe bükün ve kalçadan öne doğru eğilin, sırtınızı düz tutun.",
+            "Bandı göğsünüze doğru çekin, omuz bıçaklarınızı sıkıştırın.",
+            "En üstte bir an duraklayın, ardından bandın gerginliğini yavaşça serbest bırakın ve başlangıç pozisyonuna dönün.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/rOM3irqQFAzN98",
+          "id": "1012",
+          "name": "bant bükülerek overhead press",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "triseps",
+            "üst sırt"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı ayaklarınızın altına yerleştirin.",
+            "Bandın saplarını omuz hizasında avuç içleriniz öne bakacak şekilde tutun.",
+            "Çekirdek kaslarınızı sıkın ve bandı yukarı doğru itin, kollarınızı tamamen uzatın.",
+            "Bantı ittirirken vücudunuzu bir tarafa bükün, kalçalarınızı sabit tutun.",
+            "En üstte bir an duraklayın, ardından başlangıç pozisyonuna dönün.",
+            "Press ve bükme hareketini diğer tarafa doğru tekrarlayın.",
+            "İstenilen tekrar sayısı kadar taraf değiştirerek devam edin."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/KZ-SLiNVyq8nbJ",
+          "id": "1017",
+          "name": "bant y-raise",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "romboid kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı uyluklarınızın önünde avuç içleriniz içe dönük tutun.",
+            "Kollarınızı düz tutun ve yanlara doğru yukarı kaldırın, vücudunuzla 'Y' şekli oluşturun.",
+            "Hareketin en üstünde omuz bıçaklarınızı sıkıştırın.",
+            "Kollarınızı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/xyMW1oyWInQGm8",
+          "id": "0041",
+          "name": "barbell ön kaldırış",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "biseps",
+            "triseps"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve halteri uyluklarınızın önünde üstten tutuşla tutun.",
+            "Kollarınızı düz tutun ve halteri omuz seviyesine gelene kadar öne ve yukarı kaldırın.",
+            "En üstte bir an duraklayın, ardından halteri yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/6tgdm4-HUiruGc",
+          "id": "0067",
+          "name": "barbell tek kol snatch",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "ön kollar",
+            "çekirdek kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun, parmak uçlarınız hafifçe dışa dönük.",
+            "Halteri üstten tutuşla, elleriniz omuz genişliğinden biraz daha geniş olacak şekilde tutun.",
+            "Dizlerinizi bükün ve kalçanızı çömelme pozisyonuna indirin, sırtınızı düz ve göğsünüzü yukarıda tutun.",
+            "Kalçalarınızı, dizlerinizi ve bileklerinizi patlayıcı bir şekilde genişletin, halteri yukarı doğru sürün.",
+            "Halter göğüs seviyesine ulaştığında, onu yukarı doğru çekin, vücudunuza yakın tutarak.",
+            "Dirseğinizi halterin altına çevirin ve kolunuzu tamamen yukarıda uzatarak dirseğinizi kilitleyin.",
+            "Halteri kontrollü bir şekilde başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/UoJ4MRqF5nR3Aw",
+          "id": "0075",
+          "name": "barbell arka delt raise",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "romboid kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve halteri üstten tutuşla tutun, avuç içleriniz aşağıya bakacak şekilde.",
+            "Dizlerinizi hafifçe bükün ve kalçadan öne doğru eğilin, sırtınızı düz tutun.",
+            "Halteri yanlara doğru, kollarınız düz olana kadar kaldırın, yere paralel olana kadar.",
+            "En üstte bir an duraklayın, ardından halteri yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    },
+    "back": {
+      "imageURL": "https://iili.io/d2pCj1V.jpg",
+      "bodyPart": "Sırt",
+      "exercises": [
+        {
+          "bodyPart": "sırt",
+          "equipment": "kablo",
+          "gifUrl": "https://v2.exercisedb.io/image/8234rcTmYgHgen",
+          "id": "0007",
+          "name": "alternatif lateral çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "romboidler"
+          ],
+          "instructions": [
+            "Sırtınız dik ve ayaklarınız yere düz basacak şekilde kablo makinesinde oturun.",
+            "Tutamakları omuz genişliğinden biraz daha geniş olacak şekilde ters tutuşla kavrayın.",
+            "Biraz geriye yaslanın ve omuz bıçaklarınızı bir araya sıkıştırarak tutamakları göğsünüze doğru çekin.",
+            "Hareketin zirvesinde bir an duraklayın, ardından tutamakları yavaşça başlangıç pozisyonuna geri bırakın.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/n-MHDXDwLXEN1F",
+          "id": "3293",
+          "name": "archer çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde bir çekiş barına asılın.",
+            "Core kaslarınızı aktif hale getirin ve omuz bıçaklarınızı aşağı ve geri çekin.",
+            "Kendinizi yukarı çekerken, bir kolunuzu büküp dirseğinizi yanınıza doğru getirin, diğer kolunuzu düz tutun.",
+            "Çeneniz barın üstüne gelene kadar çekmeye devam edin ve bükülü kolunuz tamamen bükülene kadar.",
+            "Kontrollü bir şekilde kendinizi aşağı indirin, bükülü kolu düzeltin ve diğer tarafta hareketi tekrarlayın.",
+            "Her tekrarda taraf değiştirerek devam edin."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/uNScbmZ2Hh1NoU",
+          "id": "0015",
+          "name": "yardımlı paralel dar tutuş çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz ağırlık ve yükseklik seviyesine ayarlayın.",
+            "Ellerinizi dar tutuşla, avuç içleriniz birbirine bakacak şekilde paralel barlara yerleştirin.",
+            "Barlardan tamamen uzatılmış kollarla asılın ve ayaklarınızı yerden kaldırın.",
+            "Sırt kaslarınızı aktive edin ve vücudunuzu barlara doğru çekin, dirseklerinizi vücudunuza yakın tutun.",
+            "Çeneniz barların üstüne gelene kadar çekmeye devam edin.",
+            "Bir an duraklayın, ardından vücudunuzu yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/F9EVIjTdoCWzYf",
+          "id": "0017",
+          "name": "yardımlı çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz ağırlık ve yükseklik ayarlarına getirin.",
+            "Tutamakları ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+            "Kollarınız tamamen uzatılmış şekilde asılın ve ayaklarınızı yerden kaldırın.",
+            "Sırt kaslarınızı aktive edin ve vücudunuzu tutamaklara doğru çekin, dirseklerinizi vücudunuza yakın tutun.",
+            "Çeneniz tutamakların üstüne gelene kadar çekmeye devam edin.",
+            "Bir an duraklayın, ardından vücudunuzu yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/vG9zgxjMa1UkAj",
+          "id": "1431",
+          "name": "yardımlı ayakta chin-up",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz destek seviyesine ayarlayın.",
+            "Ayak platformunda durun ve tutamakları ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+            "Göğsünüzü yukarıda ve omuzlarınızı geride tutarak core kaslarınızı aktive edin ve dizlerinizi hafifçe bükün.",
+            "Dirseklerinizi bükerek ve dirseklerinizi yanlarınıza doğru çekerek vücudunuzu yukarı çekin.",
+            "Çeneniz barın üstüne gelene kadar çekmeye devam edin.",
+            "Bir an duraklayın, ardından vücudunuzu yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/uoJL-0oPS5pcum",
+          "id": "1432",
+          "name": "yardımlı ayakta çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz ağırlık ve yükseklik ayarlarına getirin.",
+            "Makineye yüzünüz dönük şekilde, ayaklarınızı omuz genişliğinde açarak durun.",
+            "Tutamakları ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+            "Latissimus dorsi ve biceps kaslarınızı aktive ederek kendinizi tutamaklara doğru çekin.",
+            "Hareketin zirvesinde bir an duraklayın ve sırt kaslarınızı sıkıştırın.",
+            "Kendinizi yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "denge topu",
+          "gifUrl": "https://v2.exercisedb.io/image/9Lotiw2i2zluYn",
+          "id": "1314",
+          "name": "denge topu üzerinde sırt uzatma",
+          "target": "omurga",
+          "secondaryMuscles": [
+            "gluteus",
+            "hamstringler"
+          ],
+          "instructions": [
+            "Denge topunu yere yerleştirin ve yüz üstü, kalçalarınız topun üzerinde olacak şekilde uzanın.",
+            "Ellerinizi başınızın arkasında veya göğsünüzün üzerinde çapraz tutun.",
+            "Core kaslarınızı aktif hale getirerek üst bedeninizi yavaşça toptan kaldırın ve vücudunuz baştan topuklara kadar düz bir çizgi oluşturana kadar sırtınızı uzatın.",
+            "Hareketin zirvesinde bir an duraklayın, ardından üst bedeninizi yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/cgehgxat7kCInx",
+          "id": "3297",
+          "name": "sırt kaldırma",
+          "target": "üst sırt",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar",
+            "core"
+          ],
+          "instructions": [
+            "Ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde bir çekiş barına asılın.",
+            "Core kaslarınızı aktif hale getirin ve omuz bıçaklarınızı aşağı ve geri çekin.",
+            "Dizlerinizi bükerek göğsünüze doğru çekin.",
+            "Bacaklarınızı düz tutarak yavaşça yukarı kaldırın, vücudunuz yere paralel olana kadar.",
+            "Bu pozisyonda birkaç saniye bekleyin, ardından bacaklarınızı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/-kj5vpMarh9MSC",
+          "id": "1405",
+          "name": "sırt göğüs esneme",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "omuzlar",
+            "göğüs"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak dik durun.",
+            "Kollarınızı düz bir şekilde önünüzde, yere paralel olacak şekilde uzatın.",
+            "Kollarınızı vücudunuzun önünde çaprazlayın, sağ kolunuzu sol kolunuzun üstüne getirin.",
+            "Parmaklarınızı kenetleyin ve avuç içlerinizi vücudunuzdan uzağa doğru döndürün.",
+            "Kollarınızı yavaşça yukarı ve vücudunuzdan uzağa doğru kaldırarak sırt ve göğsünüzde bir esneme hissedin.",
+            "Bu esnemeyi 15-30 saniye boyunca tutun, ardından bırakın.",
+            "Karşı tarafta tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/3BRQfymPHArzxp",
+          "id": "0970",
+          "name": "bant yardımlı çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Bantı bir çekiş barına veya sağlam bir noktaya bağlayın.",
+            "Bantın üzerine adım atın ve barı ters tutuşla, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+            "Kollarınız tamamen uzatılmış şekilde asılın, core kaslarınızı aktif hale getirin ve omuzlarınızı aşağı ve geri çekin.",
+            "Omuz bıçaklarınızı bir araya sıkıştırarak ve dirseklerinizi kalçalarınıza doğru çekerek vücudunuzu yukarı çekin.",
+            "Çeneniz barın üstüne gelene kadar çekmeye devam edin, ardından yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    },
+    "biceps": {
+      "imageURL": "https://iili.io/d2pCOdP.jpg",
+      "bodyPart": "Kol",
+      "exercises": [
+        {
+          "bodyPart": "kol",
+          "equipment": "destekli",
+          "gifUrl": "https://v2.exercisedb.io/image/wc4WiMmU9LT2L1",
+          "id": "0018",
+          "name": "destekli ayakta triceps uzatma (havlu ile)",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açın ve her iki elinizle başınızın arkasında bir havlu tutun.",
+            "Dirseklerinizi kulaklarınıza yakın tutun ve üst kollarınızı sabit tutun.",
+            "Ön kollarınızı yavaşça yukarı doğru uzatın, tricepslerinizi yukarıda sıkın.",
+            "Bir an duraklayın, ardından havluyu yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "kaldıraç makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/GWnlN1LshrqZtS",
+          "id": "0019",
+          "name": "destekli triceps dip (diz çökerek)",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "göğüs",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz ağırlık ve yüksekliğe ayarlayın.",
+            "Makineye dönük olarak pad üzerinde diz çökün ve kollarınızı tutacaklardan tutun.",
+            "Dirseklerinizi bükerek vücudunuzu aşağı doğru indirin, sırtınızı düz ve makineye yakın tutun.",
+            "Altta bir an duraklayın, ardından başlangıç pozisyonuna geri dönmek için kendinizi yukarı itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/RWxTVQAyUDGglG",
+          "id": "0968",
+          "name": "bant ile dönüşümlü biceps curl",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açın ve bandı avuç içleriniz yukarı bakacak şekilde tutun.",
+            "Dirseklerinizi yanlarınıza yakın tutun ve bir kolunuzu omzunuza doğru bükerek yukarı kaldırın, bicepslerinizi yukarıda sıkın.",
+            "Kolu başlangıç pozisyonuna geri indirin ve diğer kol ile tekrarlayın.",
+            "Kolları dönüşümlü olarak istenilen tekrar sayısı kadar devam edin."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/zkcnxQG55rMB8y",
+          "id": "0975",
+          "name": "bant ile dar tutuş şınav",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "göğüs",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Bantı dirseklerinizin hemen üstünde üst kollarınıza yerleştirin.",
+            "Ellerinizi omuzlarınızın hemen altına yerleştirerek şınav pozisyonu alın ve vücudunuzu baştan topuklara kadar düz bir çizgide tutun.",
+            "Dirseklerinizi bükerek göğsünüzü yere doğru indirin, dirseklerinizi yanlarınıza yakın tutun.",
+            "Avuç içlerinizden kuvvet alarak kollarınızı uzatın ve başlangıç pozisyonuna geri dönün.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/QJzZmsNOXqOXFH",
+          "id": "0976",
+          "name": "bant ile konsantrasyon curl",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar"
+          ],
+          "instructions": [
+            "Bir bank veya sandalyeye oturun ve bacaklarınızı açarak ayaklarınızı yere düz bir şekilde yerleştirin.",
+            "Bandın bir ucunu elinizde tutun ve aynı tarafın ayağı ile diğer ucuna basın.",
+            "Biraz öne eğilin ve dirseğinizi dizinizin hemen üstüne, iç kısmına yerleştirin.",
+            "Avuç içiniz yukarı bakacak şekilde elinizi omzunuza doğru yavaşça kaldırın, üst kolunuzu sabit tutarak.",
+            "Yukarıda bir an duraklayın, ardından elinizi yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/LeZPJ5XNaNGjON",
+          "id": "0986",
+          "name": "bant ile tek kol baş üstü biceps curl",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açın ve bandın bir ucunu ayağınızın altına yerleştirin.",
+            "Bandın diğer ucunu kolunuz tamamen başınızın üstünde uzatılmış şekilde tutun, avuç içi öne bakacak şekilde.",
+            "Üst kolunuzu sabit tutarak, ön kolunuzu omzunuza doğru bükerek yukarı kaldırın, bicepslerinizi sıkın.",
+            "Yukarıda bir an duraklayın, ardından ön kolunuzu yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın, ardından kol değiştirin."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/OqCGAirg498oN3",
+          "id": "0998",
+          "name": "bant ile yandan triceps uzatma",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açın ve bandı her iki elinizle tutun, avuç içleriniz aşağı bakacak şekilde.",
+            "Kollarınızı yere paralel olacak şekilde yanlara doğru düz uzatın.",
+            "Dirseklerinizi yavaşça bükün ve ellerinizi omuzlarınıza doğru getirin, üst kollarınızı sabit tutarak.",
+            "Bir an duraklayın, ardından kollarınızı yavaşça başlangıç pozisyonuna geri uzatın.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/VdNjs97ONHt3x5",
+          "id": "0023",
+          "name": "halter ile dönüşümlü biceps curl",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak düz bir şekilde ayakta durun ve her iki elinizde birer halter tutun, avuç içleriniz öne bakacak şekilde.",
+            "Üst kollarınızı sabit tutarak, bicepslerinizi kasarak halterleri yukarı doğru kaldırırken nefes verin.",
+            "Bicepsleriniz tamamen kasılana ve halterler omuz seviyesine ulaşana kadar halterleri kaldırmaya devam edin.",
+            "Kasılmış pozisyonda kısa bir süre duraklayarak bicepslerinizi sıkın.",
+            "Nefes alarak halterleri yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar, kolları dönüşümlü olarak tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/VhaoGcPOvsl98N",
+          "id": "2407",
+          "name": "halter ile biceps curl (kol desteği ile)",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak düz bir şekilde ayakta durun ve halteri avuç içleriniz yukarı bakacak şekilde tutun.",
+            "Üst kollarınızı kol desteğine yerleştirerek, dirseklerinizi vücudunuza yakın tutun.",
+            "Üst kollarınızı sabit tutarak, nefes verin ve halterleri yukarı doğru kaldırırken bicepslerinizi kasın.",
+            "Bicepsleriniz tamamen kasılana ve halterler omuz seviyesine ulaşana kadar halterleri kaldırmaya devam edin.",
+            "Kasılmış pozisyonda kısa bir süre duraklayarak bicepslerinizi sıkın.",
+            "Nefes alarak halteri yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/5B8sjMfL1aGlKR",
+          "id": "0030",
+          "name": "halter ile dar tutuş bench press",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "göğüs",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Bir bank üzerinde düz bir şekilde yatın, ayaklarınızı yere düz bir şekilde yerleştirin ve sırtınızı banka bastırın.",
+            "Halteri omuz genişliğinden biraz daha dar bir tutuşla kavrayın.",
+            "Halteri rafa kaldırın ve yavaşça göğsünüze doğru indirin, dirseklerinizi vücudunuza yakın tutarak.",
+            "Halter göğsünüze dokunduğunda bir an duraklayın.",
+            "Kollarınızı tamamen uzatarak halteri başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    },
+    "cardio": {
+      "imageURL": "https://iili.io/d2pChqQ.jpg",
+      "bodyPart": "Kardiyo",
+      "exercises": [
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/RxksGdRR2fNZej",
+          "id": "3220",
+          "name": "bacaklar ayrık zıplama (erkek)",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "baldırlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun.",
+            "Dizlerinizi bükün ve vücudunuzu çömelme pozisyonuna indirin.",
+            "Patlayıcı bir şekilde yukarı zıplayın, bacaklarınızı ve kollarınızı uzatın.",
+            "Havadayken bacaklarınızı açın ve kollarınızı yanlara getirin.",
+            "Yumuşak bir şekilde omuz genişliğinde ayaklarınızı yere koyarak, dizlerinizi bükerek darbenin etkisini azaltın.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/Lx4M4o9sIUbeq0",
+          "id": "3672",
+          "name": "ileri geri adım",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "kalçalar",
+            "baldırlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun.",
+            "Sağ ayağınızla öne doğru adım atın, dizinizi bükerek vücudunuzu hamle pozisyonuna indirin.",
+            "Sağ ayağınızla iterek başlangıç pozisyonuna geri dönün.",
+            "Hareketi sol ayağınızla tekrarlayın, her adımda bacak değiştirin.",
+            "Sabit bir tempo koruyarak ileri geri adım atmaya devam edin.",
+            "İstenilen süre veya tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/OvDmdr0rtpwpEt",
+          "id": "3360",
+          "name": "ayı yürüyüşü",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "karın kasları",
+            "omuzlar",
+            "triseps"
+          ],
+          "instructions": [
+            "Ellerinizi omuzlarınızın hemen altında ve dizlerinizi kalçalarınızın hemen altında olacak şekilde dört ayak üzerinde başlayın.",
+            "Dizlerinizi yerden hafifçe kaldırarak, sırtınızı düz ve karın kaslarınızı sıkı tutun.",
+            "Sağ elinizi ve sol ayağınızı aynı anda ileri doğru hareket ettirin, ardından sol elinizi ve sağ ayağınızı hareket ettirin.",
+            "El ve ayak hareketlerinizi değiştirerek ileri doğru emeklemeye devam edin.",
+            "Egzersiz boyunca sabit bir tempo koruyun ve karın kaslarınızı sıkı tutun.",
+            "İstenilen mesafe veya süre boyunca devam edin."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/ODDenG11ZBfXcm",
+          "id": "1160",
+          "name": "burpee",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "baldırlar",
+            "omuzlar",
+            "göğüs"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak dik durun.",
+            "Dizlerinizi bükerek ve ellerinizi önünüzde yere koyarak vücudunuzu çömelme pozisyonuna indirin.",
+            "Ayaklarınızı geriye doğru iterek şınav pozisyonuna geçin.",
+            "Vücudunuzu düz tutarak bir şınav çekin.",
+            "Ayaklarınızı tekrar çömelme pozisyonuna getirin.",
+            "Patlayıcı bir şekilde yukarı zıplayın, kollarınızı başınızın üstüne uzatın.",
+            "Yumuşak bir şekilde yere inin ve bir sonraki tekrara başlamak için hemen tekrar çömelme pozisyonuna geçin."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "leveraj makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/MMiIR-svpHtboJ",
+          "id": "2331",
+          "name": "bisiklet çapraz antrenörü",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "kalçalar"
+          ],
+          "instructions": [
+            "Sele yüksekliğini ayarlayın ve bisiklet çapraz antrenöründe kendinizi konumlandırın.",
+            "Ayaklarınızı pedallara koyun ve gidonu kavrayın.",
+            "Düzgün ve kontrollü bir hareketle pedallamaya başlayın.",
+            "Sabit bir tempo koruyun ve isterseniz direnci artırın.",
+            "Kardiyo antrenmanınızın istenen süresi boyunca pedallamaya devam edin."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "dambıl",
+          "gifUrl": "https://v2.exercisedb.io/image/Kh6ZUXM0sVJ0Z5",
+          "id": "1201",
+          "name": "dambıl burpee",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "baldırlar",
+            "omuzlar",
+            "triseps",
+            "karın kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak, her iki elinize birer dambıl alarak dik durun.",
+            "Dizlerinizi bükerek ve dambılları önünüzde yere koyarak çömelme pozisyonuna geçin.",
+            "Ayaklarınızı geriye doğru iterek şınav pozisyonuna geçin, vücudunuzu düz tutun.",
+            "Dirseklerinizi bükerek ve göğsünüzü yere yaklaştırarak bir şınav çekin.",
+            "Ayaklarınızı ellerinize doğru geri çekerek çömelme pozisyonuna geçin.",
+            "Patlayıcı bir şekilde ayağa kalkarak dambılları yerden kaldırın ve omuzlarınıza getirin.",
+            "Dambılları başınızın üstüne doğru kaldırarak kollarınızı tamamen uzatın.",
+            "Dambılları omuzlarınıza geri indirin ve istenen tekrar sayısı kadar tüm sekansı tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/ReShwUGbRUNY3e",
+          "id": "3221",
+          "name": "yarım diz bükme (erkek)",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "kalçalar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun.",
+            "Dizlerinizi bükerek ve vücudunuzu bir sandalyeye oturuyormuş gibi indirerek çömelin.",
+            "Göğsünüzü yukarıda ve ağırlığınızı topuklarınızda tutun.",
+            "Alt pozisyonda bir an duraklayın, ardından topuklarınızdan iterek başlangıç pozisyonuna geri dönün.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/TzF7Ftek1Wkf13",
+          "id": "3636",
+          "name": "duvara karşı yüksek diz",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "kalçalar",
+            "baldırlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı kalça genişliğinde açarak duvara dönük durun.",
+            "Destek için ellerinizi duvara koyun.",
+            "Karın kaslarınızı sıkın ve sağ dizinizi göğsünüze doğru kaldırın, sol ayağınızı yerde tutarak.",
+            "Hızla bacak değiştirerek sol dizinizi göğsünüze doğru kaldırın ve sağ ayağınızı yere indirin.",
+            "Dizlerinizi mümkün olduğunca yukarı çekerek koşma hareketiyle bacaklarınızı değiştirmeye devam edin.",
+            "Egzersiz boyunca hızlı bir tempo koruyun ve üst vücudunuzu sabit tutun.",
+            "İstenilen süre veya tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/GVFaL6G5nyshdv",
+          "id": "0501",
+          "name": "jack burpee",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "hamstringler",
+            "baldırlar",
+            "omuzlar",
+            "triseps",
+            "karın kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak dik durun.",
+            "Dizlerinizi bükerek ve ellerinizi önünüzde yere koyarak çömelme pozisyonuna geçin.",
+            "Ayaklarınızı geri atarak şınav pozisyonuna geçin.",
+            "Göğsünüzü yere indirerek bir şınav çekin ve ardından tekrar yukarı ittirin.",
+            "Ayaklarınızı ileri doğru çekerek çömelme pozisyonuna geçin.",
+            "Patlayıcı bir şekilde yukarı zıplayın ve kollarınızı başınızın üstüne kaldırın.",
+            "Yumuşak bir şekilde yere inin ve hemen tekrar çömelme pozisyonuna geçerek bir sonraki tekrara başlayın."
+          ]
+        },
+        {
+          "bodyPart": "kardiyo",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/h9OJnRqBAnFKNq",
+          "id": "3224",
+          "name": "jack zıplaması (erkek)",
+          "target": "kardiyovasküler sistem",
+          "secondaryMuscles": [
+            "kuadriseps",
+            "baldırlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı birleştirerek ve kollarınızı yanlarda tutarak durun.",
+            "Zıplayarak ayaklarınızı açın ve kollarınızı başınızın üstüne kaldırın.",
+            "Yere inerken hızla başlangıç pozisyonuna geri zıplayın.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    }
+  },
+  "weightGain": {
+    "leg": {
+      "imageURL": "https://iili.io/d2pCkkF.jpg",
+      "bodyPart": "Bacak",
+      "exercises": [
+        {
+          "bodyPart": "bacak",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/2NMiTl6t2Wiu4X",
+          "id": "1368",
+          "name": "ayak bileği daireleri",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "ayak bileği stabilizatörleri"
+          ],
+          "instructions": [
+            "Bacaklarınızı önünüzde uzatarak yere oturun.",
+            "Bir bacağınızı yerden kaldırın ve ayak bileğinizi dairesel hareketlerle döndürün.",
+            "İstenilen sayıda daireyi bir yönde yapın, ardından diğer yöne geçin.",
+            "Diğer bacakla tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "destekli",
+          "gifUrl": "https://v2.exercisedb.io/image/EudMEcBA7J-kLm",
+          "id": "1708",
+          "name": "destekli yatarken baldır germe",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler"
+          ],
+          "instructions": [
+            "Sırt üstü uzanın ve bacaklarınızı uzatın.",
+            "Bir dizinizi bükün ve ayağınızı yere düz bir şekilde yerleştirin.",
+            "Ellerinizi veya bir havluyu kullanarak ayak parmaklarınızı vücudunuza doğru çekin, baldırınızda bir gerilme hissedin.",
+            "Gerilme pozisyonunu 20-30 saniye tutun.",
+            "Gerilmeyi bırakın ve diğer bacakla tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/6Q9gWtQjCwS0hB",
+          "id": "0999",
+          "name": "bant ile tek bacak baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "ayak bilekleri",
+            "ayaklar"
+          ],
+          "instructions": [
+            "Ayaklarınızı kalça genişliğinde açarak durun ve bandı sol ayağınızın altına yerleştirin.",
+            "Denge için sabit bir nesneye tutunun.",
+            "Sol topuğunuzu yavaşça yerden kaldırın, vücut ağırlığınızı ayağınızın topuna verin.",
+            "Yukarıda bir an duraklayın, ardından sol topuğunuzu yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın, ardından sağ ayağınıza geçin."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/EEKLsfsauyYjZ5",
+          "id": "1000",
+          "name": "bant ile tek bacak ters baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler",
+            "gluteus"
+          ],
+          "instructions": [
+            "Ayaklarınızı kalça genişliğinde açarak durun ve bandı ayağınızın topuğuna yerleştirin.",
+            "Denge için sabit bir nesneye tutunun.",
+            "Topuğunuzu yavaşça yerden kaldırın, vücut ağırlığınızı ayağınızın topuna verin.",
+            "Yukarıda bir an duraklayın, ardından topuğunuzu yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın, ardından diğer ayağa geçin."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/aMVeUVwB6Kg-B0",
+          "id": "1369",
+          "name": "bant ile iki bacak baldır kaldırma - (bant her iki ayağın altında) v. 2",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "ayak bilekleri",
+            "ayaklar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bir direnç bandını her iki ayağınızın altına yerleştirin.",
+            "Denge için bandın uçlarını ellerinizle tutun.",
+            "Topuklarınızı yerden olabildiğince yükseğe kaldırın, baldırlarınızı kullanarak.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/jcHLX6Pb112EoQ",
+          "id": "1370",
+          "name": "halter ile yer baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler"
+          ],
+          "instructions": [
+            "Önünüzde bir halteri yere yerleştirin.",
+            "Ayaklarınızın topukları havada kalacak şekilde halterin kenarına basın.",
+            "Denge için sabit bir nesneye tutunun.",
+            "Topuklarınızı olabildiğince yükseğe kaldırın, vücudunuzu kaldırmak için baldırlarınızı kullanın.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/2YIAyscU9cYBsu",
+          "id": "0088",
+          "name": "halter ile oturarak baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler",
+            "quadriceps"
+          ],
+          "instructions": [
+            "Bir banka oturun ve ayaklarınızı yere düz bir şekilde yerleştirin, halteri uyluklarınızın üzerine yerleştirin.",
+            "Ayaklarınızın topuklarını bir yükseltiye, örneğin bir blok veya basamağa yerleştirin.",
+            "Halteri uyluklarınızın üzerine yerleştirin ve ellerinizle sıkıca tutun.",
+            "Sırtınızı düz tutarak ve karnınızı sıkarak, topuklarınızı yerden kaldırarak ayak bileklerinizi uzatın.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/3XN0ThPr0tYC6D",
+          "id": "1371",
+          "name": "halter ile oturarak baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler"
+          ],
+          "instructions": [
+            "Bir banka oturun ve ayaklarınızı yere düz bir şekilde yerleştirin, halteri uyluklarınızın üzerine yerleştirin.",
+            "Ayaklarınızın topuklarını bir yükseltiye, örneğin bir blok veya basamağa yerleştirin.",
+            "Topuklarınızı olabildiğince aşağıya indirin, baldırlarınızda bir gerilme hissedin.",
+            "Topuklarınızı olabildiğince yükseğe kaldırın, baldırlarınızı kasarak.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/lzf94QZpDR4Eea",
+          "id": "1372",
+          "name": "halter ile ayakta baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler",
+            "gluteus"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve halteri üst sırtınızın üzerine yerleştirin.",
+            "Topuklarınızı yerden olabildiğince yükseğe kaldırın, sadece parmak uçlarınızı kullanarak.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        },
+        {
+          "bodyPart": "bacak",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/hblaoDvJUedsMb",
+          "id": "0108",
+          "name": "halter ile ayakta tek bacak baldır kaldırma",
+          "target": "baldırlar",
+          "secondaryMuscles": [
+            "hamstringler",
+            "gluteus"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve halteri üst sırtınızın üzerine yerleştirin.",
+            "Topuklarınızı yerden olabildiğince yükseğe kaldırın, baldırlarınızı kullanarak.",
+            "Yukarıda bir an duraklayın, ardından topuklarınızı yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen sayıda tekrar yapın."
+          ]
+        }
+      ]
+    },
+    "chest": {
+      "imageURL": "https://iili.io/d2pCwrB.jpg",
+      "bodyPart": "Göğüs",
+      "exercises": [
+        {
+          "bodyPart": "göğüs",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/hnIZ2a-OZaktu7",
+          "id": "3294",
+          "name": "archer şınav",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar",
+            "core"
+          ],
+          "instructions": [
+            "Elleriniz omuz genişliğinden biraz daha geniş olacak şekilde şınav pozisyonunda başlayın.",
+            "Bir kolunuzu yana doğru yere paralel uzatın.",
+            "Dirseklerinizi bükerek, sırtınızı düz tutarak ve core kaslarınızı sıkı tutarak vücudunuzu aşağı indirin.",
+            "Başlangıç pozisyonuna geri ittirin.",
+            "Diğer tarafta tekrarlayın, karşı kolunuzu yana doğru uzatın.",
+            "İstenilen tekrar sayısı kadar taraf değiştirerek devam edin."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/YZjYgVSIAAHKZy",
+          "id": "0009",
+          "name": "yardımlı göğüs dip (diz çökerek)",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz yüksekliğe ayarlayın ve dizlerinizi yastığa yerleştirin.",
+            "Kollarınız tam uzatılmış şekilde tutamakları avuç içleriniz aşağı bakacak şekilde tutun.",
+            "Dirseklerinizi bükerek vücudunuzu üst kollarınız yere paralel olana kadar indirin.",
+            "Bir an duraklayın, ardından başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "yardımlı",
+          "gifUrl": "https://v2.exercisedb.io/image/jhdIu627-fcNRS",
+          "id": "1716",
+          "name": "yardımlı oturarak pektoral majör esneme (denge topu ile)",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "omuzlar",
+            "triseps"
+          ],
+          "instructions": [
+            "Ayaklarınız yere düz basacak şekilde ve sırtınız düz olacak şekilde denge topunun üzerine oturun.",
+            "Denge topunu iki elinizle tutun ve kollarınızı önünüzde düz uzatın.",
+            "Denge topunu yavaşça göğsünüze doğru indirin, göğüs kaslarınızda bir gerilme hissedin.",
+            "Esnemeyi birkaç saniye tutun, ardından yavaşça başlangıç pozisyonuna dönün.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/aqEAZskx2Ws6Cd",
+          "id": "2364",
+          "name": "yardımlı geniş tutuş göğüs dip (diz çökerek)",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz yüksekliğe ayarlayın ve dizlerinizi yastığa yerleştirin.",
+            "Tutamakları geniş tutuşla tutun ve dirseklerinizi hafifçe bükülü tutun.",
+            "Dirseklerinizi bükerek vücudunuzu üst kollarınız yere paralel olana kadar indirin.",
+            "Kollarınızı uzatarak başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/7yfjNIiIG55jsU",
+          "id": "1254",
+          "name": "bant bench press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınız yere düz basacak şekilde ve sırtınız bench'e yaslanmış şekilde bench'e uzanın.",
+            "Bant tutacaklarını avuç içleriniz aşağı bakacak şekilde, omuz genişliğinden biraz daha geniş tutun.",
+            "Kollarınızı tamamen uzatarak bandı göğsünüzden uzağa itin.",
+            "Dirseklerinizi 90 derece açıyla bükerek bandı yavaşça göğsünüze indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/Bj-0mnADcrC7qQ",
+          "id": "0989",
+          "name": "bant tek kol bükülerek göğüs press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "omuzlar",
+            "triseps"
+          ],
+          "instructions": [
+            "Bandı göğüs hizasında sabit bir noktaya bağlayın.",
+            "Yanınız sabit noktaya bakacak şekilde durun ve bandı bir elinizle tutun.",
+            "Bandı germek için sabit noktadan uzaklaşın.",
+            "Ayaklarınızı omuz genişliğinde açın ve dizlerinizi hafifçe bükün.",
+            "Bandı tutan elinizi vücudunuzun karşı omzuna doğru getirin.",
+            "Bandın gerilimini koruyarak elinizi vücudunuzdan uzağa doğru ileri itin ve kolunuzu uzatın.",
+            "Yavaşça başlangıç pozisyonuna geri dönün ve istenilen tekrar sayısı kadar tekrarlayın.",
+            "Taraf değiştirerek diğer elle tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/jqsFMvtt2yQk7e",
+          "id": "0025",
+          "name": "barbell bench press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınız yere düz basacak şekilde ve sırtınız bench'e yaslanmış şekilde bench'e uzanın.",
+            "Halteri avuç içleriniz aşağı bakacak şekilde, omuz genişliğinden biraz daha geniş tutun.",
+            "Halteri raftan çıkarın ve kollarınızı tamamen uzatarak göğsünüzün üzerinde tutun.",
+            "Dirseklerinizi içe doğru bükerek halteri yavaşça göğsünüze indirin.",
+            "Halter göğsünüze değdiğinde bir an duraklayın.",
+            "Kollarınızı uzatarak halteri başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/3ifYuXyi1zl5SW",
+          "id": "0033",
+          "name": "barbell decline bench press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı güvenli bir şekilde sabitleyerek ve başınızı kalçalarınızdan daha düşük olacak şekilde decline bench'e uzanın.",
+            "Halteri avuç içleriniz aşağı bakacak şekilde, omuz genişliğinden biraz daha geniş tutun.",
+            "Halteri raftan çıkarın ve dirseklerinizi içe doğru bükerek halteri yavaşça göğsünüze indirin.",
+            "Alt pozisyonda bir an duraklayın, ardından halteri başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/ovxOeWfoYaGMrK",
+          "id": "1255",
+          "name": "barbell decline pullover",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı güvenli bir şekilde sabitleyerek ve başınızı kalçalarınızdan daha düşük olacak şekilde decline bench'e uzanın.",
+            "Halteri pronate tutuşla (avuç içleriniz vücudunuzdan uzağa bakacak şekilde) ve elleriniz omuz genişliğinden biraz daha geniş olacak şekilde tutun.",
+            "Dirseklerinizde hafif bir bükülme ile kollarınızı göğsünüzün üzerinde uzatın.",
+            "Halteri başınızın arkasına doğru bir yay çizerek indirin, göğsünüzde ve omuzlarınızda bir gerilme hissedin.",
+            "Bir an duraklayın, ardından hareketi tersine çevirerek halteri başlangıç pozisyonuna geri getirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "göğüs",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/VwbPgfG8U7OlIq",
+          "id": "0036",
+          "name": "barbell decline wide-grip press",
+          "target": "pektoraller",
+          "secondaryMuscles": [
+            "triseps",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı güvenli bir şekilde sabitleyerek ve başınızı kalçalarınızdan daha düşük olacak şekilde decline bench'e uzanın.",
+            "Halteri geniş tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde tutun.",
+            "Halteri göğsünüze indirin, dirseklerinizi yanlara doğru açarak.",
+            "Kollarınızı tamamen uzatarak halteri başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    },
+    "shoulder": {
+      "imageURL": "https://iili.io/d2pn6Zb.jpg",
+      "bodyPart": "Omuz",
+      "exercises": [
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/WToKuynzUlGERw",
+          "id": "0977",
+          "name": "bant ön lateral kaldırış",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "üst sırt"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı uyluklarınızın önünde avuç içleriniz aşağıya bakacak şekilde tutun.",
+            "Kollarınızı düz tutun ve bandı önünüzde yere paralel olana kadar kaldırın.",
+            "En üstte bir an duraklayın, ardından bandı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/EHxwiqnX8nxkZ4",
+          "id": "0978",
+          "name": "bant ön kaldırış",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "triseps",
+            "üst sırt"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı uyluklarınızın önünde avuç içleriniz aşağıya bakacak şekilde tutun.",
+            "Kollarınızı düz tutun ve yavaşça öne doğru yere paralel olana kadar kaldırın.",
+            "En üstte bir an duraklayın, ardından kollarınızı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/1aHExd9cXqZawS",
+          "id": "0993",
+          "name": "bant ters fly",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "üst sırt",
+            "trapez kasları"
+          ],
+          "instructions": [
+            "Bandı göğüs hizasında sabit bir nesneye bağlayın.",
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı ellerinizle önünüzde tutun.",
+            "Kollarınızı düz tutun ve yanlara doğru yere paralel olana kadar kaldırın.",
+            "Hareketin en üstünde omuz bıçaklarınızı sıkıştırın.",
+            "Kollarınızı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/XPxHDmOqkWFRzw",
+          "id": "0997",
+          "name": "bant omuz press",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "triseps",
+            "üst sırt"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı ayaklarınızın altına yerleştirin.",
+            "Bandı avuç içleriniz öne bakacak şekilde tutun ve ellerinizi omuz hizasına kaldırın, dirsekler bükülü.",
+            "Bandı yukarı doğru itin, kollarınızı tamamen uzatın.",
+            "En üstte bir an duraklayın, ardından bandı yavaşça omuz hizasına geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/l-Jtfxxuwsw1Lg",
+          "id": "1022",
+          "name": "bant ayakta arka delt row",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "romboid kasları",
+            "biseps"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı ayaklarınızın altına yerleştirin.",
+            "Bandın saplarını avuç içleriniz birbirine bakacak şekilde tutun ve kollarınızı önünüzde uzatın.",
+            "Dizlerinizi hafifçe bükün ve kalçadan öne doğru eğilin, sırtınızı düz tutun.",
+            "Bandı göğsünüze doğru çekin, omuz bıçaklarınızı sıkıştırın.",
+            "En üstte bir an duraklayın, ardından bandın gerginliğini yavaşça serbest bırakın ve başlangıç pozisyonuna dönün.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/rOM3irqQFAzN98",
+          "id": "1012",
+          "name": "bant bükülerek overhead press",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "triseps",
+            "üst sırt"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı ayaklarınızın altına yerleştirin.",
+            "Bandın saplarını omuz hizasında avuç içleriniz öne bakacak şekilde tutun.",
+            "Çekirdek kaslarınızı sıkın ve bandı yukarı doğru itin, kollarınızı tamamen uzatın.",
+            "Bantı ittirirken vücudunuzu bir tarafa bükün, kalçalarınızı sabit tutun.",
+            "En üstte bir an duraklayın, ardından başlangıç pozisyonuna dönün.",
+            "Press ve bükme hareketini diğer tarafa doğru tekrarlayın.",
+            "İstenilen tekrar sayısı kadar taraf değiştirerek devam edin."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/KZ-SLiNVyq8nbJ",
+          "id": "1017",
+          "name": "bant y-raise",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "romboid kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve bandı uyluklarınızın önünde avuç içleriniz içe dönük tutun.",
+            "Kollarınızı düz tutun ve yanlara doğru yukarı kaldırın, vücudunuzla 'Y' şekli oluşturun.",
+            "Hareketin en üstünde omuz bıçaklarınızı sıkıştırın.",
+            "Kollarınızı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/xyMW1oyWInQGm8",
+          "id": "0041",
+          "name": "barbell ön kaldırış",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "biseps",
+            "triseps"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve halteri uyluklarınızın önünde üstten tutuşla tutun.",
+            "Kollarınızı düz tutun ve halteri omuz seviyesine gelene kadar öne ve yukarı kaldırın.",
+            "En üstte bir an duraklayın, ardından halteri yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/6tgdm4-HUiruGc",
+          "id": "0067",
+          "name": "barbell tek kol snatch",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "ön kollar",
+            "çekirdek kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun, parmak uçlarınız hafifçe dışa dönük.",
+            "Halteri üstten tutuşla, elleriniz omuz genişliğinden biraz daha geniş olacak şekilde tutun.",
+            "Dizlerinizi bükün ve kalçanızı çömelme pozisyonuna indirin, sırtınızı düz ve göğsünüzü yukarıda tutun.",
+            "Kalçalarınızı, dizlerinizi ve bileklerinizi patlayıcı bir şekilde genişletin, halteri yukarı doğru sürün.",
+            "Halter göğüs seviyesine ulaştığında, onu yukarı doğru çekin, vücudunuza yakın tutarak.",
+            "Dirseğinizi halterin altına çevirin ve kolunuzu tamamen yukarıda uzatarak dirseğinizi kilitleyin.",
+            "Halteri kontrollü bir şekilde başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın, ardından kolları değiştirin."
+          ]
+        },
+        {
+          "bodyPart": "omuz",
+          "equipment": "barbell",
+          "gifUrl": "https://v2.exercisedb.io/image/UoJ4MRqF5nR3Aw",
+          "id": "0075",
+          "name": "barbell arka delt raise",
+          "target": "deltoidler",
+          "secondaryMuscles": [
+            "trapez kasları",
+            "romboid kasları"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak durun ve halteri üstten tutuşla tutun, avuç içleriniz aşağıya bakacak şekilde.",
+            "Dizlerinizi hafifçe bükün ve kalçadan öne doğru eğilin, sırtınızı düz tutun.",
+            "Halteri yanlara doğru, kollarınız düz olana kadar kaldırın, yere paralel olana kadar.",
+            "En üstte bir an duraklayın, ardından halteri yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    },
+    "back": {
+      "imageURL": "https://iili.io/d2pCj1V.jpg",
+      "bodyPart": "Sırt",
+      "exercises": [
+        {
+          "bodyPart": "sırt",
+          "equipment": "kablo",
+          "gifUrl": "https://v2.exercisedb.io/image/8234rcTmYgHgen",
+          "id": "0007",
+          "name": "alternatif lateral çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "romboidler"
+          ],
+          "instructions": [
+            "Sırtınız dik ve ayaklarınız yere düz basacak şekilde kablo makinesinde oturun.",
+            "Tutamakları omuz genişliğinden biraz daha geniş olacak şekilde ters tutuşla kavrayın.",
+            "Biraz geriye yaslanın ve omuz bıçaklarınızı bir araya sıkıştırarak tutamakları göğsünüze doğru çekin.",
+            "Hareketin zirvesinde bir an duraklayın, ardından tutamakları yavaşça başlangıç pozisyonuna geri bırakın.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/n-MHDXDwLXEN1F",
+          "id": "3293",
+          "name": "archer çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde bir çekiş barına asılın.",
+            "Core kaslarınızı aktif hale getirin ve omuz bıçaklarınızı aşağı ve geri çekin.",
+            "Kendinizi yukarı çekerken, bir kolunuzu büküp dirseğinizi yanınıza doğru getirin, diğer kolunuzu düz tutun.",
+            "Çeneniz barın üstüne gelene kadar çekmeye devam edin ve bükülü kolunuz tamamen bükülene kadar.",
+            "Kontrollü bir şekilde kendinizi aşağı indirin, bükülü kolu düzeltin ve diğer tarafta hareketi tekrarlayın.",
+            "Her tekrarda taraf değiştirerek devam edin."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/uNScbmZ2Hh1NoU",
+          "id": "0015",
+          "name": "yardımlı paralel dar tutuş çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz ağırlık ve yükseklik seviyesine ayarlayın.",
+            "Ellerinizi dar tutuşla, avuç içleriniz birbirine bakacak şekilde paralel barlara yerleştirin.",
+            "Barlardan tamamen uzatılmış kollarla asılın ve ayaklarınızı yerden kaldırın.",
+            "Sırt kaslarınızı aktive edin ve vücudunuzu barlara doğru çekin, dirseklerinizi vücudunuza yakın tutun.",
+            "Çeneniz barların üstüne gelene kadar çekmeye devam edin.",
+            "Bir an duraklayın, ardından vücudunuzu yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/F9EVIjTdoCWzYf",
+          "id": "0017",
+          "name": "yardımlı çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz ağırlık ve yükseklik ayarlarına getirin.",
+            "Tutamakları ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+            "Kollarınız tamamen uzatılmış şekilde asılın ve ayaklarınızı yerden kaldırın.",
+            "Sırt kaslarınızı aktive edin ve vücudunuzu tutamaklara doğru çekin, dirseklerinizi vücudunuza yakın tutun.",
+            "Çeneniz tutamakların üstüne gelene kadar çekmeye devam edin.",
+            "Bir an duraklayın, ardından vücudunuzu yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/vG9zgxjMa1UkAj",
+          "id": "1431",
+          "name": "yardımlı ayakta chin-up",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz destek seviyesine ayarlayın.",
+            "Ayak platformunda durun ve tutamakları ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+            "Göğsünüzü yukarıda ve omuzlarınızı geride tutarak core kaslarınızı aktive edin ve dizlerinizi hafifçe bükün.",
+            "Dirseklerinizi bükerek ve dirseklerinizi yanlarınıza doğru çekerek vücudunuzu yukarı çekin.",
+            "Çeneniz barın üstüne gelene kadar çekmeye devam edin.",
+            "Bir an duraklayın, ardından vücudunuzu yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "leverage makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/uoJL-0oPS5pcum",
+          "id": "1432",
+          "name": "yardımlı ayakta çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz ağırlık ve yükseklik ayarlarına getirin.",
+            "Makineye yüzünüz dönük şekilde, ayaklarınızı omuz genişliğinde açarak durun.",
+            "Tutamakları ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+            "Latissimus dorsi ve biceps kaslarınızı aktive ederek kendinizi tutamaklara doğru çekin.",
+            "Hareketin zirvesinde bir an duraklayın ve sırt kaslarınızı sıkıştırın.",
+            "Kendinizi yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "denge topu",
+          "gifUrl": "https://v2.exercisedb.io/image/9Lotiw2i2zluYn",
+          "id": "1314",
+          "name": "denge topu üzerinde sırt uzatma",
+          "target": "omurga",
+          "secondaryMuscles": [
+            "gluteus",
+            "hamstringler"
+          ],
+          "instructions": [
+            "Denge topunu yere yerleştirin ve yüz üstü, kalçalarınız topun üzerinde olacak şekilde uzanın.",
+            "Ellerinizi başınızın arkasında veya göğsünüzün üzerinde çapraz tutun.",
+            "Core kaslarınızı aktif hale getirerek üst bedeninizi yavaşça toptan kaldırın ve vücudunuz baştan topuklara kadar düz bir çizgi oluşturana kadar sırtınızı uzatın.",
+            "Hareketin zirvesinde bir an duraklayın, ardından üst bedeninizi yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/cgehgxat7kCInx",
+          "id": "3297",
+          "name": "sırt kaldırma",
+          "target": "üst sırt",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar",
+            "core"
+          ],
+          "instructions": [
+            "Ters tutuşla, omuz genişliğinden biraz daha geniş olacak şekilde bir çekiş barına asılın.",
+            "Core kaslarınızı aktif hale getirin ve omuz bıçaklarınızı aşağı ve geri çekin.",
+            "Dizlerinizi bükerek göğsünüze doğru çekin.",
+            "Bacaklarınızı düz tutarak yavaşça yukarı kaldırın, vücudunuz yere paralel olana kadar.",
+            "Bu pozisyonda birkaç saniye bekleyin, ardından bacaklarınızı yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "vücut ağırlığı",
+          "gifUrl": "https://v2.exercisedb.io/image/-kj5vpMarh9MSC",
+          "id": "1405",
+          "name": "sırt göğüs esneme",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "omuzlar",
+            "göğüs"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak dik durun.",
+            "Kollarınızı düz bir şekilde önünüzde, yere paralel olacak şekilde uzatın.",
+            "Kollarınızı vücudunuzun önünde çaprazlayın, sağ kolunuzu sol kolunuzun üstüne getirin.",
+            "Parmaklarınızı kenetleyin ve avuç içlerinizi vücudunuzdan uzağa doğru döndürün.",
+            "Kollarınızı yavaşça yukarı ve vücudunuzdan uzağa doğru kaldırarak sırt ve göğsünüzde bir esneme hissedin.",
+            "Bu esnemeyi 15-30 saniye boyunca tutun, ardından bırakın.",
+            "Karşı tarafta tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "sırt",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/3BRQfymPHArzxp",
+          "id": "0970",
+          "name": "bant yardımlı çekiş",
+          "target": "latissimus dorsi",
+          "secondaryMuscles": [
+            "biceps",
+            "önkollar"
+          ],
+          "instructions": [
+            "Bantı bir çekiş barına veya sağlam bir noktaya bağlayın.",
+            "Bantın üzerine adım atın ve barı ters tutuşla, eller omuz genişliğinden biraz daha geniş olacak şekilde kavrayın.",
+            "Kollarınız tamamen uzatılmış şekilde asılın, core kaslarınızı aktif hale getirin ve omuzlarınızı aşağı ve geri çekin.",
+            "Omuz bıçaklarınızı bir araya sıkıştırarak ve dirseklerinizi kalçalarınıza doğru çekerek vücudunuzu yukarı çekin.",
+            "Çeneniz barın üstüne gelene kadar çekmeye devam edin, ardından yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    },
+    "biceps": {
+      "imageURL": "https://iili.io/d2pCOdP.jpg",
+      "bodyPart": "Kol",
+      "exercises": [
+        {
+          "bodyPart": "kol",
+          "equipment": "destekli",
+          "gifUrl": "https://v2.exercisedb.io/image/wc4WiMmU9LT2L1",
+          "id": "0018",
+          "name": "destekli ayakta triceps uzatma (havlu ile)",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açın ve her iki elinizle başınızın arkasında bir havlu tutun.",
+            "Dirseklerinizi kulaklarınıza yakın tutun ve üst kollarınızı sabit tutun.",
+            "Ön kollarınızı yavaşça yukarı doğru uzatın, tricepslerinizi yukarıda sıkın.",
+            "Bir an duraklayın, ardından havluyu yavaşça başlangıç pozisyonuna indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "kaldıraç makinesi",
+          "gifUrl": "https://v2.exercisedb.io/image/GWnlN1LshrqZtS",
+          "id": "0019",
+          "name": "destekli triceps dip (diz çökerek)",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "göğüs",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Makineyi istediğiniz ağırlık ve yüksekliğe ayarlayın.",
+            "Makineye dönük olarak pad üzerinde diz çökün ve kollarınızı tutacaklardan tutun.",
+            "Dirseklerinizi bükerek vücudunuzu aşağı doğru indirin, sırtınızı düz ve makineye yakın tutun.",
+            "Altta bir an duraklayın, ardından başlangıç pozisyonuna geri dönmek için kendinizi yukarı itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/RWxTVQAyUDGglG",
+          "id": "0968",
+          "name": "bant ile dönüşümlü biceps curl",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açın ve bandı avuç içleriniz yukarı bakacak şekilde tutun.",
+            "Dirseklerinizi yanlarınıza yakın tutun ve bir kolunuzu omzunuza doğru bükerek yukarı kaldırın, bicepslerinizi yukarıda sıkın.",
+            "Kolu başlangıç pozisyonuna geri indirin ve diğer kol ile tekrarlayın.",
+            "Kolları dönüşümlü olarak istenilen tekrar sayısı kadar devam edin."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/zkcnxQG55rMB8y",
+          "id": "0975",
+          "name": "bant ile dar tutuş şınav",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "göğüs",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Bantı dirseklerinizin hemen üstünde üst kollarınıza yerleştirin.",
+            "Ellerinizi omuzlarınızın hemen altına yerleştirerek şınav pozisyonu alın ve vücudunuzu baştan topuklara kadar düz bir çizgide tutun.",
+            "Dirseklerinizi bükerek göğsünüzü yere doğru indirin, dirseklerinizi yanlarınıza yakın tutun.",
+            "Avuç içlerinizden kuvvet alarak kollarınızı uzatın ve başlangıç pozisyonuna geri dönün.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/QJzZmsNOXqOXFH",
+          "id": "0976",
+          "name": "bant ile konsantrasyon curl",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar"
+          ],
+          "instructions": [
+            "Bir bank veya sandalyeye oturun ve bacaklarınızı açarak ayaklarınızı yere düz bir şekilde yerleştirin.",
+            "Bandın bir ucunu elinizde tutun ve aynı tarafın ayağı ile diğer ucuna basın.",
+            "Biraz öne eğilin ve dirseğinizi dizinizin hemen üstüne, iç kısmına yerleştirin.",
+            "Avuç içiniz yukarı bakacak şekilde elinizi omzunuza doğru yavaşça kaldırın, üst kolunuzu sabit tutarak.",
+            "Yukarıda bir an duraklayın, ardından elinizi yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın, ardından taraf değiştirin."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/LeZPJ5XNaNGjON",
+          "id": "0986",
+          "name": "bant ile tek kol baş üstü biceps curl",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açın ve bandın bir ucunu ayağınızın altına yerleştirin.",
+            "Bandın diğer ucunu kolunuz tamamen başınızın üstünde uzatılmış şekilde tutun, avuç içi öne bakacak şekilde.",
+            "Üst kolunuzu sabit tutarak, ön kolunuzu omzunuza doğru bükerek yukarı kaldırın, bicepslerinizi sıkın.",
+            "Yukarıda bir an duraklayın, ardından ön kolunuzu yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın, ardından kol değiştirin."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "bant",
+          "gifUrl": "https://v2.exercisedb.io/image/OqCGAirg498oN3",
+          "id": "0998",
+          "name": "bant ile yandan triceps uzatma",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "omuzlar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açın ve bandı her iki elinizle tutun, avuç içleriniz aşağı bakacak şekilde.",
+            "Kollarınızı yere paralel olacak şekilde yanlara doğru düz uzatın.",
+            "Dirseklerinizi yavaşça bükün ve ellerinizi omuzlarınıza doğru getirin, üst kollarınızı sabit tutarak.",
+            "Bir an duraklayın, ardından kollarınızı yavaşça başlangıç pozisyonuna geri uzatın.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/VdNjs97ONHt3x5",
+          "id": "0023",
+          "name": "halter ile dönüşümlü biceps curl",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak düz bir şekilde ayakta durun ve her iki elinizde birer halter tutun, avuç içleriniz öne bakacak şekilde.",
+            "Üst kollarınızı sabit tutarak, bicepslerinizi kasarak halterleri yukarı doğru kaldırırken nefes verin.",
+            "Bicepsleriniz tamamen kasılana ve halterler omuz seviyesine ulaşana kadar halterleri kaldırmaya devam edin.",
+            "Kasılmış pozisyonda kısa bir süre duraklayarak bicepslerinizi sıkın.",
+            "Nefes alarak halterleri yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar, kolları dönüşümlü olarak tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/VhaoGcPOvsl98N",
+          "id": "2407",
+          "name": "halter ile biceps curl (kol desteği ile)",
+          "target": "biceps",
+          "secondaryMuscles": [
+            "ön kollar"
+          ],
+          "instructions": [
+            "Ayaklarınızı omuz genişliğinde açarak düz bir şekilde ayakta durun ve halteri avuç içleriniz yukarı bakacak şekilde tutun.",
+            "Üst kollarınızı kol desteğine yerleştirerek, dirseklerinizi vücudunuza yakın tutun.",
+            "Üst kollarınızı sabit tutarak, nefes verin ve halterleri yukarı doğru kaldırırken bicepslerinizi kasın.",
+            "Bicepsleriniz tamamen kasılana ve halterler omuz seviyesine ulaşana kadar halterleri kaldırmaya devam edin.",
+            "Kasılmış pozisyonda kısa bir süre duraklayarak bicepslerinizi sıkın.",
+            "Nefes alarak halteri yavaşça başlangıç pozisyonuna geri indirin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        },
+        {
+          "bodyPart": "kol",
+          "equipment": "halter",
+          "gifUrl": "https://v2.exercisedb.io/image/5B8sjMfL1aGlKR",
+          "id": "0030",
+          "name": "halter ile dar tutuş bench press",
+          "target": "triceps",
+          "secondaryMuscles": [
+            "göğüs",
+            "omuzlar"
+          ],
+          "instructions": [
+            "Bir bank üzerinde düz bir şekilde yatın, ayaklarınızı yere düz bir şekilde yerleştirin ve sırtınızı banka bastırın.",
+            "Halteri omuz genişliğinden biraz daha dar bir tutuşla kavrayın.",
+            "Halteri rafa kaldırın ve yavaşça göğsünüze doğru indirin, dirseklerinizi vücudunuza yakın tutarak.",
+            "Halter göğsünüze dokunduğunda bir an duraklayın.",
+            "Kollarınızı tamamen uzatarak halteri başlangıç pozisyonuna geri itin.",
+            "İstenilen tekrar sayısı kadar tekrarlayın."
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/fragmentDaily">
+
+    <fragment
+        android:id="@+id/fragmentDaily"
+        android:name="com.app.sagliklikal.fragments.home.DailyFragment"
+        android:label="Daily Fragment"
+        tools:layout="@layout/fragment_daily" />
+
+    <fragment
+        android:id="@+id/fragmentProfile"
+        android:name="com.app.sagliklikal.fragments.home.ProfileFragment"
+        android:label="Profile Fragment"
+        tools:layout="@layout/fragment_profile">
+        <action
+            android:id="@+id/action_fragmentProfile_to_updateProfileFragment"
+            app:destination="@id/updateProfileFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/fragmentExercise"
+        android:name="com.app.sagliklikal.fragments.exercise.ExerciseFragment"
+        android:label="Exercise Fragment"
+        tools:layout="@layout/fragment_exercise" >
+        <action
+            android:id="@+id/action_fragmentExercise_to_muscleDetailFragment"
+            app:destination="@id/muscleDetailFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"/>
+    </fragment>
+    <fragment
+        android:id="@+id/muscleDetailFragment"
+        android:name="com.app.sagliklikal.fragments.exercise.MuscleDetailFragment"
+        android:label="fragment_muscle_detail"
+        tools:layout="@layout/fragment_muscle_detail" >
+        <argument
+            android:name="muscle"
+            app:argType="com.app.sagliklikal.model.MuscleGroupModel" />
+        <action
+            android:id="@+id/action_muscleDetailFragment_to_exerciseOverviewFragment"
+            app:destination="@id/exerciseOverviewFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"/>
+    </fragment>
+    <fragment
+        android:id="@+id/exerciseOverviewFragment"
+        android:name="com.app.sagliklikal.fragments.exercise.ExerciseOverviewFragment"
+        android:label="fragment_exercise_overview"
+        tools:layout="@layout/fragment_exercise_overview" >
+        <argument
+            android:name="exercise"
+            app:argType="com.app.sagliklikal.model.BodyPartExercisesItem"/>
+        <action
+            android:id="@+id/action_exerciseOverviewFragment_to_exerciseExecutionFragment"
+            app:destination="@id/exerciseExecutionFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/exerciseExecutionFragment"
+        android:name="com.app.sagliklikal.fragments.exercise.ExerciseExecutionFragment"
+        android:label="fragment_exercise_execution"
+        tools:layout="@layout/fragment_exercise_execution" >
+        <argument
+            android:name="exercise"
+            app:argType="com.app.sagliklikal.model.BodyPartExercisesItem"/>
+        <action
+            android:id="@+id/action_exerciseExecutionFragment_to_fragmentExercise"
+            app:destination="@id/fragmentExercise" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/updateProfileFragment"
+        android:name="com.app.sagliklikal.fragments.home.UpdateProfileFragment"
+        android:label="UpdateProfileFragment"
+        tools:layout="@layout/fragment_update_profile">
+        <argument
+            android:name="userProfileData"
+            app:argType="com.app.sagliklikal.model.UpdateProfile"/>
+       </fragment>
+
+</navigation>

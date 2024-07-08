@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="exercise"
+            type="com.app.sagliklikal.model.BodyPartExercisesItem" />
+    </data>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purple">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="25dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@id/letsDoItButton"
+                android:layout_alignParentTop="true"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/exerciseName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/egzersiz_adi"
+                    android:text="@{exercise.name}"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    android:textSize="32sp"
+                    android:textStyle="bold" />
+
+                <HorizontalScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="none">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/round_6dp_background"
+                            android:backgroundTint="@color/red"
+                            android:gravity="center"
+                            android:hint="@string/hedef"
+                            android:paddingHorizontal="5dp"
+                            android:paddingVertical="3dp"
+                            android:text="@{exercise.target}"
+                            android:textColor="@color/white"
+                            android:textColorHint="@color/white"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            tools:ignore="RtlSymmetry,SmallSp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_marginStart="5dp"
+                            android:background="@drawable/round_6dp_background"
+                            android:backgroundTint="@color/green"
+                            android:gravity="center"
+                            android:hint="@string/ekipman"
+                            android:paddingHorizontal="5dp"
+                            android:paddingVertical="3dp"
+                            android:text="@{exercise.equipment}"
+                            android:textColor="@color/white"
+                            android:textColorHint="@color/white"
+                            android:textSize="14sp"
+                            android:textStyle="bold"
+                            tools:ignore="RtlSymmetry,SmallSp" />
+
+                    </LinearLayout>
+                </HorizontalScrollView>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:text="@string/egzersiz_talimat"
+                    android:textColor="@color/black"
+                    android:textSize="21sp"
+                    android:textStyle="bold" />
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="5dp"
+                    android:scrollbars="none">
+
+                    <TextView
+                        android:id="@+id/instructionsText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                </ScrollView>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/letsDoItButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:backgroundTint="@color/green"
+                android:text="@string/hadi_ba_layal_m" />
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+</layout>

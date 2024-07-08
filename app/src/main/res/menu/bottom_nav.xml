@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragmentDaily"
+        android:icon="@drawable/baseline_flatware_24"
+        android:title="@string/g_nl_k" />
+    <item
+        android:id="@+id/fragmentExercise"
+        android:icon="@drawable/baseline_fitness_center_24"
+        android:title="@string/egzersiz" />
+    <item
+        android:id="@+id/fragmentProfile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="@string/profil" />
+</menu>

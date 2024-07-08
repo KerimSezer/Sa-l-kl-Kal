@@ -1,0 +1,610 @@
+[
+  {
+    "product": "Yumurta",
+    "amount": "1 adet (50 g)",
+    "calories": 70,
+    "protein": 6.3,
+    "fat": 4.8,
+    "carbohydrate": 0.6
+  },
+  {
+    "product": "Tam Buğday Ekmeği",
+    "amount": "1 dilim (28 g)",
+    "calories": 69,
+    "protein": 3.5,
+    "fat": 1,
+    "carbohydrate": 12
+  },
+  {
+    "product": "Süt (Yağlı)",
+    "amount": "1 su bardağı (240 ml)",
+    "calories": 150,
+    "protein": 8,
+    "fat": 8,
+    "carbohydrate": 12
+  },
+  {
+    "product": "Tavuk Göğsü (Izgara)",
+    "amount": "100 g",
+    "calories": 165,
+    "protein": 31,
+    "fat": 3.6,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Basmati Pirinci (Pişmiş)",
+    "amount": "1 su bardağı (185 g)",
+    "calories": 205,
+    "protein": 4.3,
+    "fat": 0.4,
+    "carbohydrate": 45
+  },
+  {
+    "product": "Brokoli (Haşlanmış)",
+    "amount": "1 su bardağı (156 g)",
+    "calories": 55,
+    "protein": 3.7,
+    "fat": 0.6,
+    "carbohydrate": 11.2
+  },
+  {
+    "product": "Elma",
+    "amount": "1 adet (182 g)",
+    "calories": 95,
+    "protein": 0.5,
+    "fat": 0.3,
+    "carbohydrate": 25
+  },
+  {
+    "product": "Badem",
+    "amount": "1 avuç (28 g)",
+    "calories": 160,
+    "protein": 6,
+    "fat": 14,
+    "carbohydrate": 6
+  },
+  {
+    "product": "Yoğurt (Sade)",
+    "amount": "1 su bardağı (245 g)",
+    "calories": 150,
+    "protein": 8.5,
+    "fat": 8,
+    "carbohydrate": 11
+  },
+  {
+    "product": "Kola",
+    "amount": "1 kutu (330 ml)",
+    "calories": 140,
+    "protein": 0,
+    "fat": 0,
+    "carbohydrate": 39
+  },
+  {
+    "product": "Portakal Suyu",
+    "amount": "1 su bardağı (240 ml)",
+    "calories": 112,
+    "protein": 2,
+    "fat": 0.2,
+    "carbohydrate": 26
+  },
+  {
+    "product": "Muz",
+    "amount": "1 adet (118 g)",
+    "calories": 105,
+    "protein": 1.3,
+    "fat": 0.4,
+    "carbohydrate": 27
+  },
+  {
+    "product": "Fıstık Ezmesi",
+    "amount": "2 yemek kaşığı (32 g)",
+    "calories": 190,
+    "protein": 8,
+    "fat": 16,
+    "carbohydrate": 6
+  },
+  {
+    "product": "Marul",
+    "amount": "1 su bardağı (36 g)",
+    "calories": 5,
+    "protein": 0.5,
+    "fat": 0.1,
+    "carbohydrate": 1
+  },
+  {
+    "product": "Kabak (Haşlanmış)",
+    "amount": "1 su bardağı (180 g)",
+    "calories": 36,
+    "protein": 2.7,
+    "fat": 0.4,
+    "carbohydrate": 7
+  },
+  {
+    "product": "Ceviz",
+    "amount": "1 avuç (28 g)",
+    "calories": 185,
+    "protein": 4.3,
+    "fat": 18.5,
+    "carbohydrate": 4
+  },
+  {
+    "product": "Zeytinyağı",
+    "amount": "1 yemek kaşığı (13.5 g)",
+    "calories": 119,
+    "protein": 0,
+    "fat": 13.5,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Tavuk Kanadı (Izgara)",
+    "amount": "100 g",
+    "calories": 203,
+    "protein": 20,
+    "fat": 13,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Kinoa (Pişmiş)",
+    "amount": "1 su bardağı (185 g)",
+    "calories": 222,
+    "protein": 8.1,
+    "fat": 3.6,
+    "carbohydrate": 39.4
+  },
+  {
+    "product": "Somon (Izgara)",
+    "amount": "100 g",
+    "calories": 206,
+    "protein": 22,
+    "fat": 12,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Avokado",
+    "amount": "1 adet (200 g)",
+    "calories": 320,
+    "protein": 4,
+    "fat": 29,
+    "carbohydrate": 17
+  },
+  {
+    "product": "Makarna (Pişmiş)",
+    "amount": "1 su bardağı (140 g)",
+    "calories": 220,
+    "protein": 7,
+    "fat": 1.3,
+    "carbohydrate": 43
+  },
+  {
+    "product": "Ispanak (Haşlanmış)",
+    "amount": "1 su bardağı (180 g)",
+    "calories": 41,
+    "protein": 5.4,
+    "fat": 0.5,
+    "carbohydrate": 6.8
+  },
+  {
+    "product": "Mercimek Çorbası",
+    "amount": "1 kase (240 ml)",
+    "calories": 186,
+    "protein": 12,
+    "fat": 4,
+    "carbohydrate": 26
+  },
+  {
+    "product": "Hindi Göğsü (Izgara)",
+    "amount": "100 g",
+    "calories": 135,
+    "protein": 30,
+    "fat": 1.5,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Çilek",
+    "amount": "1 su bardağı (152 g)",
+    "calories": 49,
+    "protein": 1,
+    "fat": 0.5,
+    "carbohydrate": 12
+  },
+  {
+    "product": "Peynir (Beyaz)",
+    "amount": "1 dilim (30 g)",
+    "calories": 80,
+    "protein": 5,
+    "fat": 6.5,
+    "carbohydrate": 1
+  },
+  {
+    "product": "Havuç (Çiğ)",
+    "amount": "1 su bardağı (128 g)",
+    "calories": 52,
+    "protein": 1.2,
+    "fat": 0.3,
+    "carbohydrate": 12.3
+  },
+  {
+    "product": "Kırmızı Et (Izgara)",
+    "amount": "100 g",
+    "calories": 250,
+    "protein": 26,
+    "fat": 17,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Barbunya (Pişmiş)",
+    "amount": "1 su bardağı (177 g)",
+    "calories": 225,
+    "protein": 15,
+    "fat": 1,
+    "carbohydrate": 40
+  },
+  {
+    "product": "Patates (Haşlanmış)",
+    "amount": "1 adet (150 g)",
+    "calories": 110,
+    "protein": 2.5,
+    "fat": 0.2,
+    "carbohydrate": 26
+  },
+  {
+    "product": "Karnabahar (Haşlanmış)",
+    "amount": "1 su bardağı (125 g)",
+    "calories": 28,
+    "protein": 2.1,
+    "fat": 0.3,
+    "carbohydrate": 5.1
+  },
+  {
+    "product": "Kırmızı Biber (Çiğ)",
+    "amount": "1 su bardağı (150 g)",
+    "calories": 39,
+    "protein": 1.5,
+    "fat": 0.5,
+    "carbohydrate": 9
+  },
+  {
+    "product": "Nohut (Pişmiş)",
+    "amount": "1 su bardağı (164 g)",
+    "calories": 269,
+    "protein": 14.5,
+    "fat": 4.2,
+    "carbohydrate": 45
+  },
+  {
+    "product": "Balık (Somon Konservesi)",
+    "amount": "100 g",
+    "calories": 208,
+    "protein": 25,
+    "fat": 12,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Pirinç (Beyaz, Pişmiş)",
+    "amount": "1 su bardağı (158 g)",
+    "calories": 204,
+    "protein": 4.2,
+    "fat": 0.4,
+    "carbohydrate": 44.5
+  },
+  {
+    "product": "Fasulye (Kuru, Pişmiş)",
+    "amount": "1 su bardağı (177 g)",
+    "calories": 225,
+    "protein": 15,
+    "fat": 0.9,
+    "carbohydrate": 40.4
+  },
+  {
+    "product": "Yulaf Ezmesi (Pişmiş)",
+    "amount": "1 su bardağı (234 g)",
+    "calories": 154,
+    "protein": 6,
+    "fat": 3.2,
+    "carbohydrate": 27
+  },
+  {
+    "product": "Kabak Çekirdeği",
+    "amount": "1 avuç (28 g)",
+    "calories": 151,
+    "protein": 7,
+    "fat": 13,
+    "carbohydrate": 5
+  },
+  {
+    "product": "Mısır (Haşlanmış)",
+    "amount": "1 su bardağı (166 g)",
+    "calories": 143,
+    "protein": 5.4,
+    "fat": 2.2,
+    "carbohydrate": 31.3
+  },
+  {
+    "product": "Bulgur (Pişmiş)",
+    "amount": "1 su bardağı (182 g)",
+    "calories": 151,
+    "protein": 5.6,
+    "fat": 0.4,
+    "carbohydrate": 33.8
+  },
+  {
+    "product": "Mandalina",
+    "amount": "1 adet (88 g)",
+    "calories": 47,
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbohydrate": 12
+  },
+  {
+    "product": "Yeşil Çay",
+    "amount": "1 fincan (240 ml)",
+    "calories": 0,
+    "protein": 0,
+    "fat": 0,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Balık (Hamsi, Pişmiş)",
+    "amount": "100 g",
+    "calories": 210,
+    "protein": 20.5,
+    "fat": 15,
+    "carbohydrate": 0
+  },
+  {
+    "product": "Hindistan Cevizi",
+    "amount": "1 su bardağı (80 g)",
+    "calories": 283,
+    "protein": 2.7,
+    "fat": 27,
+    "carbohydrate": 12
+  },
+  {
+    "product": "Zeytin (Siyah)",
+    "amount": "10 adet (28 g)",
+    "calories": 70,
+    "protein": 0.5,
+    "fat": 7,
+    "carbohydrate": 1.5
+  },
+  {
+    "product": "Mantar (Pişmiş)",
+    "amount": "1 su bardağı (156 g)",
+    "calories": 35,
+    "protein": 4.9,
+    "fat": 0.5,
+    "carbohydrate": 4.6
+  },
+  {
+    "product": "Ananas",
+    "amount": "1 su bardağı (165 g)",
+    "calories": 82,
+    "protein": 0.9,
+    "fat": 0.2,
+    "carbohydrate": 21.6
+  },
+  {
+    "product": "Kaju Fıstığı",
+    "amount": "1 avuç (28 g)",
+    "calories": 157,
+    "protein": 5,
+    "fat": 12,
+    "carbohydrate": 9
+  },
+  {
+    "product": "Taze Fasulye (Haşlanmış)",
+    "amount": "1 su bardağı (125 g)",
+    "calories": 44,
+    "protein": 2.4,
+    "fat": 0.4,
+    "carbohydrate": 9.9
+  },
+  {
+    "product": "Greyfurt",
+    "amount": "1 adet (230 g)",
+    "calories": 78,
+    "protein": 1.6,
+    "fat": 0.2,
+    "carbohydrate": 19.2
+  },
+  {
+    "product": "Peynir (Kaşar)",
+    "amount": "1 dilim (30 g)",
+    "calories": 113,
+    "protein": 7,
+    "fat": 9.3,
+    "carbohydrate": 0.4
+  },
+  {
+    "product": "Kabak (Çiğ)",
+    "amount": "1 su bardağı (124 g)",
+    "calories": 21,
+    "protein": 1.5,
+    "fat": 0.3,
+    "carbohydrate": 3.9
+  },
+  {
+    "product": "Kivi",
+    "amount": "1 adet (69 g)",
+    "calories": 42,
+    "protein": 0.8,
+    "fat": 0.4,
+    "carbohydrate": 10.1
+  },
+  {
+    "product": "Ayçiçek Çekirdeği",
+    "amount": "1 avuç (28 g)",
+    "calories": 164,
+    "protein": 5.8,
+    "fat": 14,
+    "carbohydrate": 6.8
+  },
+  {
+    "product": "Kefir",
+    "amount": "1 su bardağı (240 ml)",
+    "calories": 110,
+    "protein": 9,
+    "fat": 2,
+    "carbohydrate": 12
+  },
+  {
+    "product": "Yaban Mersini",
+    "amount": "1 su bardağı (148 g)",
+    "calories": 84,
+    "protein": 1.1,
+    "fat": 0.5,
+    "carbohydrate": 21.4
+  },
+  {
+    "product": "Tatlı Patates (Haşlanmış)",
+    "amount": "1 su bardağı (200 g)",
+    "calories": 180,
+    "protein": 4,
+    "fat": 0.3,
+    "carbohydrate": 41.4
+  },
+  {
+    "product": "Domates (Çiğ)",
+    "amount": "1 adet (123 g)",
+    "calories": 22,
+    "protein": 1.1,
+    "fat": 0.2,
+    "carbohydrate": 4.8
+  },
+  {
+    "product": "Karnabahar (Çiğ)",
+    "amount": "1 su bardağı (107 g)",
+    "calories": 27,
+    "protein": 2.1,
+    "fat": 0.3,
+    "carbohydrate": 5.3
+  },
+  {
+    "product": "Mango",
+    "amount": "1 su bardağı (165 g)",
+    "calories": 99,
+    "protein": 1.4,
+    "fat": 0.6,
+    "carbohydrate": 24.7
+  },
+  {
+    "product": "Kereviz (Çiğ)",
+    "amount": "1 su bardağı (101 g)",
+    "calories": 16,
+    "protein": 0.8,
+    "fat": 0.2,
+    "carbohydrate": 3
+  },
+  {
+    "product": "Kuru İncir",
+    "amount": "1 adet (8 g)",
+    "calories": 21,
+    "protein": 0.2,
+    "fat": 0.1,
+    "carbohydrate": 5.4
+  },
+  {
+    "product": "Tahin",
+    "amount": "1 yemek kaşığı (15 g)",
+    "calories": 89,
+    "protein": 2.6,
+    "fat": 8,
+    "carbohydrate": 3.2
+  },
+  {
+    "product": "Pancar (Haşlanmış)",
+    "amount": "1 su bardağı (170 g)",
+    "calories": 74,
+    "protein": 2.2,
+    "fat": 0.3,
+    "carbohydrate": 16.9
+  },
+  {
+    "product": "Yumurta Beyazı",
+    "amount": "1 adet (33 g)",
+    "calories": 17,
+    "protein": 3.6,
+    "fat": 0.1,
+    "carbohydrate": 0.2
+  },
+  {
+    "product": "Roka",
+    "amount": "1 su bardağı (20 g)",
+    "calories": 5,
+    "protein": 0.5,
+    "fat": 0.1,
+    "carbohydrate": 0.7
+  },
+  {
+    "product": "Bezelye (Haşlanmış)",
+    "amount": "1 su bardağı (160 g)",
+    "calories": 134,
+    "protein": 8.6,
+    "fat": 0.4,
+    "carbohydrate": 25
+  },
+  {
+    "product": "Beyaz Peynir (Yağlı)",
+    "amount": "100 g",
+    "calories": 264,
+    "protein": 14.2,
+    "fat": 21.6,
+    "carbohydrate": 1.5
+  },
+  {
+    "product": "Kırmızı Mercimek (Pişmiş)",
+    "amount": "1 su bardağı (198 g)",
+    "calories": 230,
+    "protein": 17.9,
+    "fat": 0.8,
+    "carbohydrate": 39.9
+  },
+  {
+    "product": "Ayva",
+    "amount": "1 adet (92 g)",
+    "calories": 52,
+    "protein": 0.3,
+    "fat": 0.1,
+    "carbohydrate": 14.1
+  },
+  {
+    "product": "Kefir (Yağsız)",
+    "amount": "1 su bardağı (240 ml)",
+    "calories": 90,
+    "protein": 9,
+    "fat": 0.5,
+    "carbohydrate": 12
+  },
+  {
+    "product": "Lahana (Çiğ)",
+    "amount": "1 su bardağı (89 g)",
+    "calories": 22,
+    "protein": 1.1,
+    "fat": 0.1,
+    "carbohydrate": 5.2
+  },
+  {
+    "product": "Papaya",
+    "amount": "1 su bardağı (140 g)",
+    "calories": 55,
+    "protein": 0.9,
+    "fat": 0.2,
+    "carbohydrate": 14
+  },
+  {
+    "product": "Bitter Çikolata (70-85% kakao)",
+    "amount": "1 kare (28 g)",
+    "calories": 170,
+    "protein": 2,
+    "fat": 12,
+    "carbohydrate": 13
+  },
+  {
+    "product": "Şeftali",
+    "amount": "1 adet (150 g)",
+    "calories": 59,
+    "protein": 1.4,
+    "fat": 0.4,
+    "carbohydrate": 14
+  }
+]
